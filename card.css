@@ -103,7 +103,7 @@ body::-webkit-scrollbar{
   position: relative;
   width: 90vw;
   max-width: 900px;
-  padding: 30px;
+  padding: 20px;
   border-radius: 20px;
   overflow: hidden;
   backdrop-filter: blur(0px);
