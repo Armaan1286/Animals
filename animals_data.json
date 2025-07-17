@@ -1,0 +1,3239 @@
+[
+  {
+    "id": 1,
+    "name": "African Elephant",
+    "fun_facts": [
+      "African elephants are the largest land animals.",
+      "They use their trunks for breathing, smelling, touching, grasping, and producing sound.",
+      "Elephants are highly intelligent and have complex social structures."
+    ],
+    "habitat": "Savannas, grasslands, and forests across sub-Saharan Africa.",
+    "diet": "Herbivore (grasses, leaves, bark, roots, fruits)",
+    "predators": [
+      "Humans (poaching)",
+      "Lions (occasionally target calves)"
+    ],
+    "prey": [
+      "Grasses",
+      "Leaves",
+      "Bark",
+      "Roots",
+      "Fruits"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 4000,
+      "male_max": 6000,
+      "female_min": 2800,
+      "female_max": 3500
+    },
+    "average_lifespan_years": "60-70",
+    "interesting_fact": "Elephants affect their environment perhaps more than any other creature on earth; their feeding habits can significantly change landscapes.",
+    "image_url": "./images1/african_elephant.webp"
+  },
+  {
+    "id": 2,
+    "name": "Bald Eagle",
+    "fun_facts": [
+      "Despite its name, the Bald Eagle isn't actually bald; its name comes from an older meaning of 'white-headed'.",
+      "They build the largest nests of any North American bird, often weighing over a ton.",
+      "Their eyesight is 3-4 times better than a human's."
+    ],
+    "habitat": "Near large bodies of open water with abundant food supply and old-growth trees for nesting, across North America.",
+    "diet": "Carnivore (mainly fish, but also small birds, mammals, reptiles, crabs, amphibians)",
+    "predators": [
+      "Humans (historical persecution, habitat loss)"
+    ],
+    "prey": [
+      "Fish",
+      "Waterfowl",
+      "Small mammals",
+      "Carrion"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 3,
+      "max": 6.3
+    },
+    "average_lifespan_years": "20-30 in the wild, up to 36 in captivity",
+    "interesting_fact": "The Bald Eagle has been the national bird of the United States of America since 1782.",
+    "image_url": "./images1/bald_eagle.webp"
+  },
+  {
+    "id": 3,
+    "name": "Bengal Tiger",
+    "fun_facts": [
+      "Bengal tigers are solitary hunters and excellent swimmers.",
+      "Their stripes are unique to each individual, like human fingerprints.",
+      "They can roar to signal their presence to other tigers up to 3 km away."
+    ],
+    "habitat": "Tropical moist evergreen forests, dry forests, mangroves, and grasslands in India, Bangladesh, Nepal, and Bhutan.",
+    "diet": "Carnivore (large ungulates like gaur, sambar, chital, wild boar)",
+    "predators": [
+      "Humans (poaching, habitat loss)"
+    ],
+    "prey": [
+      "Deer",
+      "Wild boar",
+      "Water buffalo",
+      "Antelope"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 180,
+      "male_max": 258,
+      "female_min": 100,
+      "female_max": 160
+    },
+    "average_lifespan_years": "10-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "Tigers in the Sundarbans mangrove forests of India and Bangladesh are the only ones in the world inhabiting such an environment.",
+    "image_url": "./images1/bengal_tiger.webp"
+  },
+  {
+    "id": 4,
+    "name": "Blue Whale",
+    "fun_facts": [
+      "The blue whale is the largest animal on Earth, weighing as much as 30 elephants.",
+      "Its tongue alone can weigh as much as an elephant.",
+      "Despite its massive size, it feeds almost exclusively on tiny krill."
+    ],
+    "habitat": "All oceans, migrating between feeding grounds in polar waters and breeding grounds in warmer, tropical waters.",
+    "diet": "Carnivore (almost exclusively krill)",
+    "predators": [
+      "Orcas (killer whales, though rare for healthy adults)",
+      "Humans (historical whaling)"
+    ],
+    "prey": [
+      "Krill"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 100000,
+      "max": 200000
+    },
+    "average_lifespan_years": "80-90",
+    "interesting_fact": "A blue whale's heart is the size of a small car, and its main artery is large enough for a human to crawl through.",
+    "image_url": "./images1/blue_whale.webp"
+  },
+  {
+    "id": 5,
+    "name": "Cheetah",
+    "fun_facts": [
+      "Cheetahs are the fastest land animals, capable of reaching speeds up to 112 km/h (70 mph).",
+      "Their non-retractable claws act like running spikes for extra grip.",
+      "The black 'tear marks' running from their eyes help reduce sun glare during hunts."
+    ],
+    "habitat": "Savannas, grasslands, and open woodlands in Africa and a small population in Iran.",
+    "diet": "Carnivore (gazelles, impalas, wildebeest calves, hares, birds)",
+    "predators": [
+      "Lions",
+      "Hyenas",
+      "Leopards",
+      "Humans"
+    ],
+    "prey": [
+      "Gazelles",
+      "Impalas",
+      "Wildebeest calves",
+      "Hares",
+      "Birds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 34,
+      "max": 64
+    },
+    "average_lifespan_years": "10-12 in the wild",
+    "interesting_fact": "Unlike other big cats, cheetahs don't roar; they purr, chirp, and hiss.",
+    "image_url": "./images1/cheetah.webp"
+  },
+  {
+    "id": 6,
+    "name": "Chimpanzee",
+    "fun_facts": [
+      "Chimpanzees are one of humans' closest living relatives, sharing about 98% of our DNA.",
+      "They are highly intelligent and use tools, solve problems, and exhibit complex social behaviors.",
+      "Chimps communicate through a variety of vocalizations, gestures, and facial expressions."
+    ],
+    "habitat": "Tropical forests and savannas of equatorial Africa.",
+    "diet": "Omnivore (mainly fruits, leaves, insects, but also small mammals like monkeys)",
+    "predators": [
+      "Leopards",
+      "Humans (hunting, habitat destruction)"
+    ],
+    "prey": [
+      "Fruits",
+      "Leaves",
+      "Insects",
+      "Bird eggs",
+      "Small monkeys",
+      "Duikers"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 40,
+      "male_max": 60,
+      "female_min": 27,
+      "female_max": 50
+    },
+    "average_lifespan_years": "40-50 in the wild, up to 60 in captivity",
+    "interesting_fact": "Chimpanzees are known to engage in cooperative hunting, often targeting other primates.",
+    "image_url": "./images1/chimpanzee.webp"
+  },
+  {
+    "id": 7,
+    "name": "Clownfish",
+    "fun_facts": [
+      "Clownfish live in a symbiotic relationship with sea anemones, being immune to their stinging tentacles.",
+      "They are all born male and can change to female later in life if the dominant female of a group dies.",
+      "Their bright colors make them easily recognizable."
+    ],
+    "habitat": "Coral reefs in the Indian and Pacific Oceans.",
+    "diet": "Omnivore (small invertebrates, algae, zooplankton, uneaten food from the anemone)",
+    "predators": [
+      "Larger fish (e.g., sharks, groupers, moray eels)"
+    ],
+    "prey": [
+      "Small invertebrates",
+      "Algae",
+      "Zooplankton"
+    ],
+    "type": "Fish",
+    "weight_kg": {
+      "min": 0.01,
+      "max": 0.1
+    },
+    "average_lifespan_years": "6-10 in the wild, up to 18 in aquariums",
+    "interesting_fact": "The mucus coating on a clownfish's skin is believed to be the secret to its immunity to anemone stings.",
+    "image_url": "./images1/clownfish.webp"
+  },
+  {
+    "id": 8,
+    "name": "Crocodile",
+    "fun_facts": [
+      "Crocodiles have one of the strongest bite forces in the animal kingdom.",
+      "They have excellent night vision and are primarily nocturnal hunters.",
+      "Crocodiles have a four-chambered heart, similar to mammals and birds."
+    ],
+    "habitat": "Freshwater habitats such as rivers, lakes, and wetlands, and sometimes brackish or saltwater, across tropical regions worldwide.",
+    "diet": "Carnivore (fish, reptiles, birds, mammals)",
+    "predators": [
+      "Humans",
+      "Larger crocodiles (cannibalism)"
+    ],
+    "prey": [
+      "Fish",
+      "Reptiles",
+      "Birds",
+      "Mammals"
+    ],
+    "type": "Reptile",
+    "weight_kg": {
+      "min": 400,
+      "max": 1000,
+      "male_max_exception": 2000
+    },
+    "average_lifespan_years": "30-70, some species up to 100",
+    "interesting_fact": "Crocodiles do not have sweat glands and release heat through their mouths, often sleeping with their mouths open.",
+    "image_url": "./images1/crocodile.webp"
+  },
+  {
+    "id": 9,
+    "name": "Dolphin",
+    "fun_facts": [
+      "Dolphins are highly intelligent marine mammals known for their playful behavior.",
+      "They use echolocation (sonar) to navigate and hunt, emitting high-frequency clicks.",
+      "Dolphins can communicate with each other through a variety of whistles and clicks."
+    ],
+    "habitat": "Oceans worldwide, from coastal waters to the open sea.",
+    "diet": "Carnivore (fish and squid)",
+    "predators": [
+      "Orcas (killer whales)",
+      "Large sharks",
+      "Humans (bycatch, hunting)"
+    ],
+    "prey": [
+      "Fish",
+      "Squid"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 40,
+      "max": 500
+    },
+    "average_lifespan_years": "20-50 depending on species",
+    "interesting_fact": "Some dolphin species, like bottlenose dolphins, have unique 'signature whistles' that act like names for individual dolphins.",
+    "image_url": "./images1/dolphin.webp"
+  },
+  {
+    "id": 10,
+    "name": "Giant Panda",
+    "fun_facts": [
+      "Giant Pandas are known for their distinctive black and white fur, which provides camouflage in snowy, rocky habitats.",
+      "Despite being classified as carnivores, their diet is 99% bamboo.",
+      "They spend at least 12-15 hours a day eating bamboo."
+    ],
+    "habitat": "Mountainous regions with dense bamboo forests in central China.",
+    "diet": "Herbivore (almost exclusively bamboo)",
+    "predators": [
+      "Snow leopards",
+      "Eagles (prey on cubs)",
+      "Humans (habitat loss)"
+    ],
+    "prey": [
+      "Bamboo (leaves, stems, shoots)",
+      "Occasionally small rodents or birds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 75,
+      "max": 160
+    },
+    "average_lifespan_years": "14-20 in the wild, up to 30 in captivity",
+    "interesting_fact": "Giant pandas have an extra 'thumb' (a modified wrist bone) that helps them grip bamboo stalks.",
+    "image_url": "./images1/giant_panda.webp"
+  },
+  {
+    "id": 11,
+    "name": "Giraffe",
+    "fun_facts": [
+      "Giraffes are the tallest mammals on Earth, with males reaching up to 5.5 meters (18 feet) tall.",
+      "Their long necks contain the same number of vertebrae as a human neck (seven), but each is much larger.",
+      "No two giraffes have the same spot pattern."
+    ],
+    "habitat": "Savannas, grasslands, and open woodlands in Africa.",
+    "diet": "Herbivore (leaves, flowers, fruits, especially acacia leaves)",
+    "predators": [
+      "Lions",
+      "Spotted hyenas",
+      "Humans"
+    ],
+    "prey": [
+      "Leaves",
+      "Flowers",
+      "Fruits",
+      "Acacia trees"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 800,
+      "male_max": 1900,
+      "female_min": 550,
+      "female_max": 1180
+    },
+    "average_lifespan_years": "20-25 in the wild, up to 30 in captivity",
+    "interesting_fact": "Giraffes only need 5 to 30 minutes of sleep in a 24-hour period, often taking short naps while standing.",
+    "image_url": "./images1/giraffe.webp"
+  },
+  {
+    "id": 12,
+    "name": "Grizzly Bear",
+    "fun_facts": [
+      "Grizzly bears are a subspecies of brown bear, known for the grizzled (gray-tipped) fur on their backs.",
+      "They have a distinctive shoulder hump, which is a muscle mass used for digging.",
+      "Despite their size, grizzlies can run at speeds of up to 56 km/h (35 mph)."
+    ],
+    "habitat": "Forests, mountains, and open tundra in western North America.",
+    "diet": "Omnivore (berries, roots, nuts, fish, small mammals, carrion)",
+    "predators": [
+      "Humans"
+    ],
+    "prey": [
+      "Fish (especially salmon)",
+      "Berries",
+      "Roots",
+      "Nuts",
+      "Insects",
+      "Small mammals",
+      "Carrion"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 180,
+      "male_max": 360,
+      "female_min": 130,
+      "female_max": 200
+    },
+    "average_lifespan_years": "20-25 in the wild, up to 30 in captivity",
+    "interesting_fact": "Grizzly bears are incredibly solitary animals, except when females are raising cubs.",
+    "image_url": "./images1/grizzly_bear.webp"
+  },
+  {
+    "id": 13,
+    "name": "Hippopotamus",
+    "fun_facts": [
+      "Hippos spend up to 16 hours a day in water to keep their skin cool and moist.",
+      "Despite their bulky appearance, they are surprisingly agile in water and can hold their breath for up to 5 minutes.",
+      "Their skin secretes a red, oily substance that acts as a natural sunscreen and moisturizer."
+    ],
+    "habitat": "Rivers, lakes, and mangrove swamps in sub-Saharan Africa.",
+    "diet": "Herbivore (primarily short grasses found on land)",
+    "predators": [
+      "Lions (prey on young hippos or isolated adults)",
+      "Crocodiles (prey on young hippos)",
+      "Humans (hunting, habitat loss)"
+    ],
+    "prey": [
+      "Grasses"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 1500,
+      "male_max": 3200,
+      "female_min": 650,
+      "female_max": 2300
+    },
+    "average_lifespan_years": "40-50 in the wild, up to 60 in captivity",
+    "interesting_fact": "Hippos are responsible for more human fatalities in Africa than any other large animal, due to their aggressive and territorial nature.",
+    "image_url": "./images1/hippopotamus.webp"
+  },
+  {
+    "id": 14,
+    "name": "Horse",
+    "fun_facts": [
+      "Horses can sleep both standing up and lying down.",
+      "Their eyes are on the sides of their heads, giving them nearly 360-degree vision.",
+      "Horses communicate through a variety of whinnies, neighs, and body language."
+    ],
+    "habitat": "Domesticated worldwide; wild horses (like Przewalski's horse) inhabit grasslands and steppes.",
+    "diet": "Herbivore (grasses, hay, grains)",
+    "predators": [
+      "Humans (for domestic horses)",
+      "Wolves",
+      "Cougars (for wild horses)"
+    ],
+    "prey": [
+      "Grasses",
+      "Hay",
+      "Grains"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 380,
+      "max": 1000
+    },
+    "average_lifespan_years": "25-30, some live into their 40s",
+    "interesting_fact": "Horses are social animals and will become lonely if kept without the companionship of other horses or animals.",
+    "image_url": "./images1/horse.webp"
+  },
+  {
+    "id": 15,
+    "name": "Kangaroo",
+    "fun_facts": [
+      "Kangaroos are marsupials, and females carry their young (joeys) in a pouch.",
+      "They use their strong hind legs for hopping, which is an energy-efficient way to travel.",
+      "Kangaroos are the only large animals to use hopping as their primary means of locomotion."
+    ],
+    "habitat": "Various habitats across Australia, including forests, woodlands, savannas, and grasslands.",
+    "diet": "Herbivore (grasses, leaves, flowers)",
+    "predators": [
+      "Dingoes",
+      "Wedge-tailed eagles (prey on joeys)",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses",
+      "Leaves",
+      "Flowers"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 50,
+      "male_max": 90,
+      "female_min": 20,
+      "female_max": 40
+    },
+    "average_lifespan_years": "6-8 in the wild, up to 20 in captivity",
+    "interesting_fact": "Kangaroos cannot walk backward due to the shape of their legs and tails.",
+    "image_url": "./images1/kangaroo.webp"
+  },
+  {
+    "id": 16,
+    "name": "Koala",
+    "fun_facts": [
+      "Koalas are marsupials native to Australia, known for their fluffy ears and large noses.",
+      "They have fingerprints almost identical to human fingerprints.",
+      "Koalas sleep up to 20 hours a day, largely due to their low-energy diet of eucalyptus leaves."
+    ],
+    "habitat": "Eucalyptus forests and woodlands in eastern and southeastern Australia.",
+    "diet": "Herbivore (almost exclusively eucalyptus leaves)",
+    "predators": [
+      "Dingoes",
+      "Goannas (prey on young koalas)",
+      "Wedge-tailed eagles (prey on young koalas)",
+      "Humans (habitat loss, bushfires)"
+    ],
+    "prey": [
+      "Eucalyptus leaves"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 4,
+      "max": 15
+    },
+    "average_lifespan_years": "13-18 in the wild, up to 20 in captivity",
+    "interesting_fact": "Koalas have a specialized digestive system to detoxify the poisonous compounds in eucalyptus leaves.",
+    "image_url": "./images1/koala.webp"
+  },
+  {
+    "id": 17,
+    "name": "Leopard",
+    "fun_facts": [
+      "Leopards are known for their distinctive rosette-patterned coats, which provide excellent camouflage.",
+      "They are incredibly adaptable and can be found in a wide range of habitats.",
+      "Leopards are solitary and largely nocturnal hunters, often dragging their kills up trees to protect them from other predators."
+    ],
+    "habitat": "Wide range, including forests, savannas, mountains, and grasslands across Africa and parts of Asia.",
+    "diet": "Carnivore (deer, antelopes, warthogs, primates, rodents, reptiles, birds)",
+    "predators": [
+      "Lions",
+      "Tigers",
+      "Hyenas",
+      "Humans"
+    ],
+    "prey": [
+      "Deer",
+      "Antelopes",
+      "Warthogs",
+      "Primates",
+      "Rodents",
+      "Reptiles",
+      "Birds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 30,
+      "male_max": 90,
+      "female_min": 20,
+      "female_max": 60
+    },
+    "average_lifespan_years": "12-17 in the wild, up to 21 in captivity",
+    "interesting_fact": "Leopards are strong climbers and can often be seen resting in trees during the day.",
+    "image_url": "./images1/leopard.webp"
+  },
+  {
+    "id": 18,
+    "name": "Lion",
+    "fun_facts": [
+      "Lions are the only cats that live in groups, called prides, which can consist of up to 40 individuals.",
+      "A lion's roar can be heard up to 8 kilometers (5 miles) away.",
+      "Females do most of the hunting for the pride."
+    ],
+    "habitat": "Savannas, grasslands, and open woodlands in sub-Saharan Africa and a small population in India (Gir Forest).",
+    "diet": "Carnivore (large ungulates like wildebeest, zebra, buffalo, giraffe)",
+    "predators": [
+      "Humans"
+    ],
+    "prey": [
+      "Wildebeest",
+      "Zebra",
+      "Buffalo",
+      "Giraffe",
+      "Antelope"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 190,
+      "male_max": 250,
+      "female_min": 120,
+      "female_max": 182
+    },
+    "average_lifespan_years": "10-14 in the wild, up to 20 in captivity",
+    "interesting_fact": "Male lions are easily recognizable by their magnificent manes, which signal their health and virility and also protect their neck during fights.",
+    "image_url": "./images1/lion.webp"
+  },
+  {
+    "id": 19,
+    "name": "Lynx",
+    "fun_facts": [
+      "Lynx are medium-sized wild cats with distinctive tufted ears and short tails.",
+      "Their large, padded paws act like snowshoes, helping them move silently over snow.",
+      "Lynx are solitary and primarily nocturnal hunters."
+    ],
+    "habitat": "Boreal forests across North America, Europe, and Asia.",
+    "diet": "Carnivore (snowshoe hares are a primary food source, but also deer, rodents, birds)",
+    "predators": [
+      "Wolves",
+      "Cougars (in North America)",
+      "Humans"
+    ],
+    "prey": [
+      "Snowshoe hares",
+      "Deer (especially fawns)",
+      "Rodents",
+      "Birds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 5,
+      "max": 30
+    },
+    "average_lifespan_years": "10-15 in the wild",
+    "interesting_fact": "The population of Canadian lynx closely follows the population cycle of their main prey, the snowshoe hare.",
+    "image_url": "./images1/lynx.webp"
+  },
+  {
+    "id": 20,
+    "name": "Manatee",
+    "fun_facts": [
+      "Manatees are large, slow-moving marine mammals often called 'sea cows'.",
+      "They are herbivores and spend most of their time grazing on seagrass and other aquatic vegetation.",
+      "Manatees have powerful tails that propel them through water and two flippers used for steering and balance."
+    ],
+    "habitat": "Shallow, slow-moving rivers, estuaries, saltwater bays, canals, and coastal areas in warm waters (Florida, Caribbean, Amazon Basin, West Africa).",
+    "diet": "Herbivore (seagrass, aquatic plants)",
+    "predators": [
+      "Humans (boat collisions, habitat degradation)"
+    ],
+    "prey": [
+      "Seagrass",
+      "Aquatic plants"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 400,
+      "max": 600
+    },
+    "average_lifespan_years": "40-60",
+    "interesting_fact": "Manatees have very few natural predators, but their slow movement and coastal habitat make them vulnerable to human activities.",
+    "image_url": "./images1/manatee.webp"
+  },
+  {
+    "id": 21,
+    "name": "Meerkat",
+    "fun_facts": [
+      "Meerkats are small mongooses known for their upright sentry duty, watching for predators.",
+      "They live in highly social groups called mobs or gangs, ranging from 3 to 50 individuals.",
+      "Each meerkat has a specific role within the group, including foraging, babysitting, and standing guard."
+    ],
+    "habitat": "Arid and semi-arid grasslands, savannas, and open plains in Southern Africa (Kalahari Desert).",
+    "diet": "Omnivore (mainly insects, but also lizards, snakes, scorpions, eggs, small mammals, roots, and tubers)",
+    "predators": [
+      "Birds of prey (e.g., martial eagles)",
+      "Jackals",
+      "Snakes"
+    ],
+    "prey": [
+      "Insects",
+      "Lizards",
+      "Snakes",
+      "Scorpions",
+      "Eggs",
+      "Small mammals",
+      "Roots",
+      "Tubers"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.6,
+      "max": 1.0
+    },
+    "average_lifespan_years": "6-10 in the wild, up to 12-14 in captivity",
+    "interesting_fact": "Meerkats are immune to the venom of certain scorpions and snakes found in their habitat.",
+    "image_url": "./images1/meerkat.webp"
+  },
+  {
+    "id": 22,
+    "name": "Moose",
+    "fun_facts": [
+      "Moose are the largest members of the deer family, easily recognized by the broad, palmate antlers of the males.",
+      "They are excellent swimmers and can dive for aquatic plants.",
+      "A moose's nose is highly sensitive to smell and helps them locate food under snow or in water."
+    ],
+    "habitat": "Boreal forests and temperate broadleaf and mixed forests in North America, Europe, and Asia.",
+    "diet": "Herbivore (twigs, bark, leaves of trees and shrubs, aquatic vegetation)",
+    "predators": [
+      "Wolves",
+      "Grizzly bears",
+      "Humans"
+    ],
+    "prey": [
+      "Twigs",
+      "Bark",
+      "Leaves of trees and shrubs (e.g., willow, birch, aspen)",
+      "Aquatic vegetation"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 360,
+      "male_max": 700,
+      "female_min": 270,
+      "female_max": 400
+    },
+    "average_lifespan_years": "15-20 in the wild",
+    "interesting_fact": "The term 'moose' is derived from the Algonquian word meaning 'eater of twigs'.",
+    "image_url": "./images1/moose.webp"
+  },
+  {
+    "id": 23,
+    "name": "Mountain Gorilla",
+    "fun_facts": [
+      "Mountain gorillas are one of the two subspecies of eastern gorillas and are critically endangered.",
+      "They live in highly cohesive family groups led by a dominant silverback male.",
+      "Each gorilla has unique nose prints, similar to human fingerprints."
+    ],
+    "habitat": "Cloud forests in the Virunga volcanic mountains of Central Africa (Rwanda, Uganda, Democratic Republic of Congo).",
+    "diet": "Herbivore (leaves, stems, roots, flowers, bark, some fruit, small insects)",
+    "predators": [
+      "Humans (poaching, habitat encroachment)",
+      "Leopards (rarely prey on young)"
+    ],
+    "prey": [
+      "Leaves",
+      "Stems",
+      "Roots",
+      "Flowers",
+      "Bark",
+      "Fruit",
+      "Small insects"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 195,
+      "male_max": 220,
+      "female_min": 90,
+      "female_max": 113
+    },
+    "average_lifespan_years": "35-50",
+    "interesting_fact": "Mountain gorillas are known for their gentle and shy nature despite their intimidating size.",
+    "image_url": "./images1/mountain_gorilla.webp"
+  },
+  {
+    "id": 24,
+    "name": "Narwhal",
+    "fun_facts": [
+      "Narwhals are often called the 'unicorns of the sea' due to the male's distinctive long, spiraled tusk.",
+      "The tusk is an elongated canine tooth that can grow up to 3 meters (10 feet) long.",
+      "They are deep divers, capable of diving to depths of 1,500 meters (4,900 feet)."
+    ],
+    "habitat": "Arctic waters of Canada, Greenland, Norway, and Russia.",
+    "diet": "Carnivore (Greenland halibut, polar cod, shrimp, squid)",
+    "predators": [
+      "Polar bears",
+      "Orcas (killer whales)",
+      "Walruses (rarely)",
+      "Humans (indigenous hunting)"
+    ],
+    "prey": [
+      "Greenland halibut",
+      "Polar cod",
+      "Shrimp",
+      "Squid"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 800,
+      "max": 1600
+    },
+    "average_lifespan_years": "50-55",
+    "interesting_fact": "The narwhal's tusk is a sensory organ with up to 10 million nerve endings, used for navigating, foraging, and possibly communicating.",
+    "image_url": "./images1/narwhal.webp"
+  },
+  {
+    "id": 25,
+    "name": "Orangutan",
+    "fun_facts": [
+      "Orangutans are the largest tree-dwelling animals in the world.",
+      "Their name means 'person of the forest' in Malay.",
+      "They have long, reddish-brown hair and incredibly long arms, which can span over 2 meters (7 feet)."
+    ],
+    "habitat": "Tropical rainforests on the islands of Borneo and Sumatra in Southeast Asia.",
+    "diet": "Herbivore (primarily fruits, but also leaves, bark, honey, insects, bird eggs)",
+    "predators": [
+      "Clouded leopards",
+      "Sumatran tigers (Sumatra only)",
+      "Humans (habitat destruction, poaching)"
+    ],
+    "prey": [
+      "Fruits",
+      "Leaves",
+      "Bark",
+      "Honey",
+      "Insects",
+      "Bird eggs"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 50,
+      "male_max": 90,
+      "female_min": 30,
+      "female_max": 50
+    },
+    "average_lifespan_years": "30-40 in the wild, up to 50 in captivity",
+    "interesting_fact": "Orangutans are known for their intelligence and ability to use tools and build complex nests for sleeping.",
+    "image_url": "./images1/orangutan.webp"
+  },
+  {
+    "id": 26,
+    "name": "Ostrich",
+    "fun_facts": [
+      "Ostriches are the largest and heaviest living birds, though they cannot fly.",
+      "They can run at speeds of up to 70 km/h (43 mph), making them the fastest birds on land.",
+      "An ostrich's eye is the largest of any land animal, measuring almost 5 cm (2 inches) in diameter."
+    ],
+    "habitat": "Savannas and semi-arid plains of Africa.",
+    "diet": "Herbivore (grasses, flowers, seeds, leaves, occasionally insects and small reptiles)",
+    "predators": [
+      "Lions",
+      "Leopards",
+      "Cheetahs",
+      "Hyenas",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses",
+      "Flowers",
+      "Seeds",
+      "Leaves",
+      "Insects",
+      "Small reptiles"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 63,
+      "max": 145
+    },
+    "average_lifespan_years": "50-70",
+    "interesting_fact": "Ostrich eggs are the largest of any bird, weighing around 1.4 kg (3 pounds).",
+    "image_url": "./images1/ostrich.webp"
+  },
+  {
+    "id": 27,
+    "name": "Otter",
+    "fun_facts": [
+      "Otters are semi-aquatic carnivorous mammals known for their playful behavior.",
+      "They often hold hands while sleeping to avoid drifting apart in the water.",
+      "Otters use rocks as tools to crack open shellfish."
+    ],
+    "habitat": "Rivers, lakes, coastlines, and wetlands worldwide, depending on the species.",
+    "diet": "Carnivore (fish, crustaceans, frogs, small mammals, birds)",
+    "predators": [
+      "Coyotes",
+      "Bobcats",
+      "Large raptors",
+      "Alligators",
+      "Humans"
+    ],
+    "prey": [
+      "Fish",
+      "Crustaceans",
+      "Frogs",
+      "Small mammals",
+      "Birds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 1,
+      "max": 45
+    },
+    "average_lifespan_years": "10-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "Sea otters are unique in that they don't have blubber like other marine mammals, relying instead on incredibly dense fur for insulation.",
+    "image_url": "./images1/otter.webp"
+  },
+  {
+    "id": 28,
+    "name": "Owl",
+    "fun_facts": [
+      "Owls are nocturnal birds of prey known for their silent flight and excellent night vision.",
+      "They can rotate their heads up to 270 degrees in either direction.",
+      "Most owls hunt by sound, using their asymmetrical ears to pinpoint prey."
+    ],
+    "habitat": "Forests, deserts, mountains, and grasslands across the globe, excluding Antarctica.",
+    "diet": "Carnivore (rodents, insects, birds, small mammals, fish)",
+    "predators": [
+      "Larger owls",
+      "Hawks",
+      "Eagles",
+      "Snakes",
+      "Humans (habitat loss)"
+    ],
+    "prey": [
+      "Rodents",
+      "Insects",
+      "Small birds",
+      "Small mammals",
+      "Fish"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.1,
+      "max": 4
+    },
+    "average_lifespan_years": "5-30 depending on species",
+    "interesting_fact": "Owl feathers are specially adapted with serrated edges and a soft, velvety surface to reduce turbulence and make their flight virtually silent.",
+    "image_url": "./images1/owl.webp"
+  },
+  {
+    "id": 29,
+    "name": "Penguin",
+    "fun_facts": [
+      "Penguins are flightless birds highly adapted for life in the water.",
+      "They are excellent swimmers and divers, using their wings as flippers.",
+      "Most penguin species live in the Southern Hemisphere, with only one species (Galapagos penguin) living north of the equator."
+    ],
+    "habitat": "Coastal regions and open ocean of the Southern Hemisphere, from Antarctica to the Galápagos Islands.",
+    "diet": "Carnivore (fish, krill, squid)",
+    "predators": [
+      "Leopard seals",
+      "Orcas (killer whales)",
+      "Sea lions",
+      "Skua (prey on eggs and chicks)"
+    ],
+    "prey": [
+      "Fish",
+      "Krill",
+      "Squid"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 1,
+      "max": 45
+    },
+    "average_lifespan_years": "15-20 in the wild, some species longer",
+    "interesting_fact": "Penguins have a countercurrent heat exchange system in their flippers and legs to minimize heat loss in cold water.",
+    "image_url": "./images1/penguin.webp"
+  },
+  {
+    "id": 30,
+    "name": "Polar Bear",
+    "fun_facts": [
+      "Polar bears are the largest land predators and are exceptionally well-adapted to Arctic environments.",
+      "Their fur is not white, but translucent, hollow tubes that reflect light, making them appear white.",
+      "They have an excellent sense of smell, capable of detecting seals up to 30 km (18 miles) away."
+    ],
+    "habitat": "Arctic regions around the North Pole, primarily on sea ice.",
+    "diet": "Carnivore (mainly seals, but also walruses, whales, birds, eggs)",
+    "predators": [
+      "Humans"
+    ],
+    "prey": [
+      "Seals (ringed seals, bearded seals)",
+      "Walruses",
+      "Whale carcasses",
+      "Birds",
+      "Eggs"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 350,
+      "male_max": 600,
+      "female_min": 150,
+      "female_max": 250
+    },
+    "average_lifespan_years": "15-18 in the wild, up to 30 in captivity",
+    "interesting_fact": "Polar bears are considered marine mammals because they spend most of their lives on sea ice and in the ocean.",
+    "image_url": "./images1/polar_bear.webp"
+  },
+  {
+    "id": 31,
+    "name": "Porcupine",
+    "fun_facts": [
+      "Porcupines are rodents known for their coat of sharp quills, which serve as a defense mechanism.",
+      "They cannot 'shoot' their quills, but the quills are loosely attached and can detach easily upon contact.",
+      "A porcupine typically has around 30,000 quills."
+    ],
+    "habitat": "Forests, grasslands, deserts, and mountains across North America, Africa, Asia, and Europe.",
+    "diet": "Herbivore (bark, leaves, roots, stems, buds, fruits, sometimes small insects or carrion)",
+    "predators": [
+      "Lynx",
+      "Bobcats",
+      "Coyotes",
+      "Wolves",
+      "Fishers (in North America)",
+      "Humans"
+    ],
+    "prey": [
+      "Bark",
+      "Leaves",
+      "Roots",
+      "Stems",
+      "Buds",
+      "Fruits",
+      "Occasionally insects or carrion"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 2.5,
+      "max": 15
+    },
+    "average_lifespan_years": "5-10 in the wild, up to 15 in captivity",
+    "interesting_fact": "New World porcupines are excellent climbers, using their prehensile tails to grip branches.",
+    "image_url": "./images1/porcupine.webp"
+  },
+  {
+    "id": 32,
+    "name": "Raccoon",
+    "fun_facts": [
+      "Raccoons are known for their distinctive 'bandit mask' around their eyes and bushy, ringed tails.",
+      "They are highly intelligent and adaptable, thriving in various environments, including urban areas.",
+      "Raccoons have extremely dexterous front paws, which they use to manipulate objects and 'wash' their food."
+    ],
+    "habitat": "Forests, wetlands, urban areas across North America, and parts of Europe and Asia (introduced).",
+    "diet": "Omnivore (fruits, nuts, insects, rodents, frogs, fish, eggs, carrion, human refuse)",
+    "predators": [
+      "Coyotes",
+      "Bobcats",
+      "Owls",
+      "Humans",
+      "Wolves"
+    ],
+    "prey": [
+      "Fruits",
+      "Nuts",
+      "Insects",
+      "Rodents",
+      "Frogs",
+      "Fish",
+      "Eggs",
+      "Carrion"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 2,
+      "max": 14
+    },
+    "average_lifespan_years": "2-3 in the wild, up to 20 in captivity",
+    "interesting_fact": "The 'washing' behavior of raccoons is thought to enhance their sense of touch, as their paw pads become more sensitive when wet.",
+    "image_url": "./images1/raccoon.webp"
+  },
+  {
+    "id": 33,
+    "name": "Red Fox",
+    "fun_facts": [
+      "Red foxes are the largest of the true foxes and the most widely distributed carnivorous mammals.",
+      "They have excellent hearing, capable of hearing low-frequency sounds and prey digging underground.",
+      "Red foxes are solitary hunters but often live in family groups during breeding season."
+    ],
+    "habitat": "Forests, grasslands, mountains, deserts, and urban areas across the Northern Hemisphere.",
+    "diet": "Omnivore (rodents, rabbits, birds, insects, fruits, berries, carrion)",
+    "predators": [
+      "Wolves",
+      "Coyotes",
+      "Bears",
+      "Lynx",
+      "Humans"
+    ],
+    "prey": [
+      "Rodents",
+      "Rabbits",
+      "Birds",
+      "Insects",
+      "Fruits",
+      "Berries",
+      "Carrion"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 2.2,
+      "max": 14
+    },
+    "average_lifespan_years": "2-5 in the wild, up to 10 in captivity",
+    "interesting_fact": "Red foxes use a unique hunting technique called 'mousing' where they leap high into the air and pounce on hidden prey.",
+    "image_url": "./images1/red_fox.webp"
+  },
+  {
+    "id": 34,
+    "name": "Red Panda",
+    "fun_facts": [
+      "Red pandas are often called 'lesser pandas' and are not closely related to giant pandas.",
+      "They have a false thumb, which is an extension of the wrist bone, helping them grip bamboo.",
+      "Red pandas are excellent climbers and spend most of their lives in trees."
+    ],
+    "habitat": "Temperate forests in the Himalayas of Nepal, India, Bhutan, China, and Myanmar.",
+    "diet": "Herbivore (primarily bamboo, but also fruits, acorns, roots, eggs, small birds, insects)",
+    "predators": [
+      "Snow leopards",
+      "Martens",
+      "Humans (habitat loss, poaching)"
+    ],
+    "prey": [
+      "Bamboo",
+      "Fruits",
+      "Acorns",
+      "Roots",
+      "Eggs",
+      "Small birds",
+      "Insects"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 3,
+      "max": 6
+    },
+    "average_lifespan_years": "8-10 in the wild, up to 15 in captivity",
+    "interesting_fact": "Red pandas are crepuscular, meaning they are most active during dawn and dusk.",
+    "image_url": "./images1/red_panda.webp"
+  },
+  {
+    "id": 35,
+    "name": "Reindeer",
+    "fun_facts": [
+      "Reindeer (or caribou in North America) are the only deer species where both males and females grow antlers.",
+      "Their hooves adapt to seasons, shrinking in winter to expose the rim for better grip on ice and snow.",
+      "Reindeer migrate further than any other land mammal, covering thousands of kilometers annually."
+    ],
+    "habitat": "Tundra, boreal forests, and mountains in Arctic and sub-Arctic regions of North America, Europe, and Asia.",
+    "diet": "Herbivore (lichen, mosses, herbs, ferns, grasses, leaves of shrubs and trees)",
+    "predators": [
+      "Wolves",
+      "Bears (grizzly and polar)",
+      "Wolverines",
+      "Lynx",
+      "Humans"
+    ],
+    "prey": [
+      "Lichen",
+      "Mosses",
+      "Herbs",
+      "Ferns",
+      "Grasses",
+      "Leaves of shrubs and trees"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 60,
+      "male_max": 300,
+      "female_min": 60,
+      "female_max": 170
+    },
+    "average_lifespan_years": "15-20 in the wild",
+    "interesting_fact": "Reindeer have a specialized nose that warms cold air before it enters their lungs and extracts moisture from their breath, preventing heat and water loss.",
+    "image_url": "./images1/reindeer.webp"
+  },
+  {
+    "id": 36,
+    "name": "Rhino",
+    "fun_facts": [
+      "Rhinoceroses are large, herbivorous mammals distinguished by their large horn or horns.",
+      "Their name comes from the Greek words 'rhino' (nose) and 'ceros' (horn).",
+      "Rhinos have poor eyesight but excellent senses of smell and hearing."
+    ],
+    "habitat": "Grasslands, savannas, tropical and subtropical forests in Africa and Asia.",
+    "diet": "Herbivore (grasses, leaves, shoots, bark, fruits)",
+    "predators": [
+      "Humans (poaching for horns)",
+      "Lions (occasionally target calves or weak adults)",
+      "Hyenas (occasionally target calves)"
+    ],
+    "prey": [
+      "Grasses",
+      "Leaves",
+      "Shoots",
+      "Bark",
+      "Fruits"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 800,
+      "max": 3600
+    },
+    "average_lifespan_years": "35-50",
+    "interesting_fact": "The 'horn' of a rhino is made of keratin, the same protein that makes up human hair and fingernails, not bone.",
+    "image_url": "./images2/rhino.webp"
+  },
+  {
+    "id": 37,
+    "name": "Sea Lion",
+    "fun_facts": [
+      "Sea lions are pinnipeds characterized by external ear flaps, long front flippers, and the ability to walk on all four flippers.",
+      "They are highly social animals, often seen in large colonies on coastlines and islands.",
+      "Sea lions are agile swimmers and can reach speeds of up to 30 km/h (18 mph) in water."
+    ],
+    "habitat": "Coastal waters and islands of temperate and tropical regions worldwide, except the North Atlantic.",
+    "diet": "Carnivore (fish, squid, octopus, crustaceans)",
+    "predators": [
+      "Orcas (killer whales)",
+      "Large sharks (e.g., great white sharks)",
+      "Humans"
+    ],
+    "prey": [
+      "Fish",
+      "Squid",
+      "Octopus",
+      "Crustaceans"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 90,
+      "max": 1000
+    },
+    "average_lifespan_years": "20-30",
+    "interesting_fact": "California sea lions are often used in marine mammal shows due to their intelligence and trainability.",
+    "image_url": "./images2/sea_lion.webp"
+  },
+  {
+    "id": 38,
+    "name": "Sea Turtle",
+    "fun_facts": [
+      "Sea turtles are ancient reptiles that have existed for over 100 million years.",
+      "They cannot retract their heads or limbs into their shells like land turtles.",
+      "Females return to the same beaches where they were born to lay their eggs."
+    ],
+    "habitat": "Tropical and subtropical oceans worldwide, with specific species preferring different habitats (e.g., coral reefs, seagrass beds, open ocean).",
+    "diet": "Omnivore (depending on species: jellyfish, algae, seagrass, crustaceans, mollusks)",
+    "predators": [
+      "Sharks (especially tiger sharks)",
+      "Orcas (killer whales)",
+      "Humans (poaching, habitat destruction, plastic pollution)",
+      "Birds/Crabs (prey on hatchlings)"
+    ],
+    "prey": [
+      "Jellyfish",
+      "Algae",
+      "Seagrass",
+      "Crustaceans",
+      "Mollusks"
+    ],
+    "type": "Reptile",
+    "weight_kg": {
+      "min": 30,
+      "max": 900
+    },
+    "average_lifespan_years": "50-100+",
+    "interesting_fact": "The leatherback sea turtle is the largest sea turtle and can dive deeper than any other reptile, reaching depths of over 1,200 meters (4,000 feet).",
+    "image_url": "./images2/sea_turtle.webp"
+  },
+  {
+    "id": 39,
+    "name": "Seal",
+    "fun_facts": [
+      "Seals are marine mammals known for their sleek, torpedo-shaped bodies and flippers.",
+      "Unlike sea lions, true seals lack external ear flaps and cannot rotate their hind flippers forward, making them less agile on land.",
+      "They spend most of their lives in the water and are excellent divers."
+    ],
+    "habitat": "Coastal waters, ice floes, and open ocean in polar, temperate, and some tropical regions worldwide.",
+    "diet": "Carnivore (fish, squid, crustaceans)",
+    "predators": [
+      "Polar bears (in Arctic)",
+      "Orcas (killer whales)",
+      "Large sharks",
+      "Humans"
+    ],
+    "prey": [
+      "Fish",
+      "Squid",
+      "Crustaceans"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 45,
+      "max": 3500
+    },
+    "average_lifespan_years": "20-30",
+    "interesting_fact": "Weddell seals can stay underwater for over 80 minutes, holding their breath longer than any other diving mammal.",
+    "image_url": "./images2/seal.webp"
+  },
+  {
+    "id": 40,
+    "name": "Shark",
+    "fun_facts": [
+      "Sharks are a group of cartilaginous fish with skeletons made of cartilage instead of bone.",
+      "They have multiple rows of teeth that are constantly replaced throughout their lives.",
+      "Sharks have an exceptional sense of smell and can detect a single drop of blood in a vast amount of water."
+    ],
+    "habitat": "All oceans worldwide, from shallow coastal waters to the deep sea.",
+    "diet": "Carnivore (fish, seals, sea lions, dolphins, other sharks, depending on species)",
+    "predators": [
+      "Larger sharks",
+      "Orcas (killer whales)",
+      "Humans"
+    ],
+    "prey": [
+      "Fish",
+      "Seals",
+      "Sea lions",
+      "Dolphins",
+      "Other sharks",
+      "Squid",
+      "Crustaceans"
+    ],
+    "type": "Fish",
+    "weight_kg": {
+      "min": 1,
+      "max": 22000
+    },
+    "average_lifespan_years": "20-70, some species over 100",
+    "interesting_fact": "The Greenland shark has the longest known lifespan of all vertebrates, estimated to live for up to 500 years.",
+    "image_url": "./images2/shark.webp"
+  },
+  {
+    "id": 41,
+    "name": "Sheep",
+    "fun_facts": [
+      "Sheep are ruminant mammals typically kept as livestock for their wool, meat, and milk.",
+      "They have excellent peripheral vision, with rectangular pupils that give them a wide field of view.",
+      "Sheep are known for their strong flocking instinct, providing safety in numbers."
+    ],
+    "habitat": "Domesticated worldwide; wild sheep (like bighorn sheep) inhabit mountainous regions.",
+    "diet": "Herbivore (grasses, clover, weeds)",
+    "predators": [
+      "Humans",
+      "Wolves",
+      "Coyotes",
+      "Dogs"
+    ],
+    "prey": [
+      "Grasses",
+      "Clover",
+      "Weeds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 45,
+      "max": 160
+    },
+    "average_lifespan_years": "10-12",
+    "interesting_fact": "There are over 1,000 different breeds of sheep worldwide.",
+    "image_url": "./images2/sheep.webp"
+  },
+  {
+    "id": 42,
+    "name": "Sloth",
+    "fun_facts": [
+      "Sloths are known for being incredibly slow, moving at a maximum speed of 0.24 km/h (0.15 mph).",
+      "Their fur often grows algae, which provides camouflage and is sometimes eaten by the sloth.",
+      "Sloths spend almost their entire lives hanging upside down in trees."
+    ],
+    "habitat": "Tropical and subtropical forests of Central and South America.",
+    "diet": "Herbivore (leaves, twigs, buds, some fruits)",
+    "predators": [
+      "Jaguars",
+      "Harpy eagles",
+      "Ocelots",
+      "Humans"
+    ],
+    "prey": [
+      "Leaves",
+      "Twigs",
+      "Buds",
+      "Fruits"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 2.5,
+      "max": 8
+    },
+    "average_lifespan_years": "20-30 in the wild",
+    "interesting_fact": "Sloths only descend from trees about once a week to defecate, making them vulnerable to predators during this time.",
+    "image_url": "./images2/sloth.webp"
+  },
+  {
+    "id": 43,
+    "name": "Snow Leopard",
+    "fun_facts": [
+      "Snow leopards are apex predators native to the mountain ranges of Central and South Asia.",
+      "They have long, thick fur and a bushy tail, which they wrap around themselves for warmth.",
+      "Their large paws act like snowshoes, distributing their weight and aiding traction on snow."
+    ],
+    "habitat": "Rocky, mountainous terrain and alpine grasslands in Central and South Asia.",
+    "diet": "Carnivore (wild sheep and goats, marmots, pikas, birds)",
+    "predators": [
+      "Humans (poaching, habitat loss)"
+    ],
+    "prey": [
+      "Bharal (blue sheep)",
+      "Ibex",
+      "Marmots",
+      "Pikas",
+      "Birds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 27,
+      "max": 55
+    },
+    "average_lifespan_years": "15-18 in the wild, up to 22 in captivity",
+    "interesting_fact": "Snow leopards cannot roar like other big cats; they communicate through chuffing, purring, and other vocalizations.",
+    "image_url": "./images2/snow_leopard.webp"
+  },
+  {
+    "id": 44,
+    "name": "Squid",
+    "fun_facts": [
+      "Squid are cephalopods, a group of marine mollusks characterized by a distinct head, bilateral symmetry, and a set of arms or tentacles.",
+      "They have three hearts: two pump blood through the gills, and one circulates blood to the rest of the body.",
+      "Squid can change color rapidly for camouflage or communication."
+    ],
+    "habitat": "All oceans, from shallow coastal waters to the deep sea.",
+    "diet": "Carnivore (fish, crustaceans, other squid)",
+    "predators": [
+      "Sharks",
+      "Dolphins",
+      "Seals",
+      "Whales (especially sperm whales)",
+      "Humans"
+    ],
+    "prey": [
+      "Fish",
+      "Crustaceans",
+      "Other squid"
+    ],
+    "type": "Mollusk (Cephalopod)",
+    "weight_kg": {
+      "min": 0.1,
+      "max": 2000
+    },
+    "average_lifespan_years": "1-5, depending on species",
+    "interesting_fact": "The giant squid has the largest eyes of any animal on Earth, up to 27 cm (11 inches) in diameter.",
+    "image_url": "./images2/squid.webp"
+  },
+  {
+    "id": 45,
+    "name": "Squirrel",
+    "fun_facts": [
+      "Squirrels are small to medium-sized rodents known for their bushy tails.",
+      "They are highly adaptable and can be found in various habitats, from forests to urban parks.",
+      "Squirrels are famous for burying nuts and seeds, often forgetting where they hid them, which aids in tree dispersal."
+    ],
+    "habitat": "Forests, woodlands, and urban areas worldwide, excluding Australia and Antarctica.",
+    "diet": "Omnivore (nuts, seeds, fruits, fungi, insects, bird eggs, young birds)",
+    "predators": [
+      "Hawks",
+      "Owls",
+      "Snakes",
+      "Foxes",
+      "Cats",
+      "Humans"
+    ],
+    "prey": [
+      "Nuts",
+      "Seeds",
+      "Fruits",
+      "Fungi",
+      "Insects",
+      "Bird eggs",
+      "Young birds"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.05,
+      "max": 1.5
+    },
+    "average_lifespan_years": "2-5 in the wild, up to 10 in captivity",
+    "interesting_fact": "Squirrels can often climb down trees headfirst by rotating their ankles 180 degrees.",
+    "image_url": "./images2/squirrel.webp"
+  },
+  {
+    "id": 46,
+    "name": "Tiger",
+    "fun_facts": [
+      "Tigers are the largest cat species, instantly recognizable by their dark vertical stripes on reddish-orange fur.",
+      "No two tigers have the exact same stripe pattern.",
+      "They are solitary hunters and excellent swimmers."
+    ],
+    "habitat": "Diverse habitats including grasslands, savannas, and forests in Asia.",
+    "diet": "Carnivore (deer, wild boar, buffalo, antelope)",
+    "predators": [
+      "Humans (poaching, habitat loss)"
+    ],
+    "prey": [
+      "Sambar deer",
+      "Chital",
+      "Wild boar",
+      "Gaur",
+      "Water buffalo"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 100,
+      "male_max": 300,
+      "female_min": 75,
+      "female_max": 160
+    },
+    "average_lifespan_years": "10-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "Tigers are powerful apex predators, playing a crucial role in maintaining the balance of ecosystems they inhabit.",
+    "image_url": "./images2/tiger.webp"
+  },
+  {
+    "id": 47,
+    "name": "Toad",
+    "fun_facts": [
+      "Toads are amphibians known for their dry, warty skin, unlike frogs which generally have smooth, moist skin.",
+      "Many species of toads have prominent parotoid glands behind their eyes that secrete toxins to deter predators.",
+      "Toads typically walk or crawl rather than hop long distances like many frogs."
+    ],
+    "habitat": "Wide range of habitats including forests, grasslands, deserts, and suburban gardens, often near water.",
+    "diet": "Carnivore (insects, slugs, worms, spiders)",
+    "predators": [
+      "Snakes",
+      "Birds",
+      "Raccoons",
+      "Humans (habitat loss, pollution)"
+    ],
+    "prey": [
+      "Insects",
+      "Slugs",
+      "Worms",
+      "Spiders"
+    ],
+    "type": "Amphibian",
+    "weight_kg": {
+      "min": 0.01,
+      "max": 0.5
+    },
+    "average_lifespan_years": "5-10 in the wild, up to 30 in captivity for some species",
+    "interesting_fact": "The Colorado River Toad (Sonoran Desert Toad) is one of the largest toads found in North America and produces powerful hallucinogenic toxins.",
+    "image_url": "./images2/toad.webp"
+  },
+  {
+    "id": 48,
+    "name": "Tortoise",
+    "fun_facts": [
+      "Tortoises are land-dwelling reptiles, distinct from turtles by their dome-shaped shells and sturdy, club-like legs.",
+      "They are among the longest-living vertebrates, with some species living over 150 years.",
+      "Tortoises are primarily herbivorous, relying on plant matter for their diet."
+    ],
+    "habitat": "Wide range, from deserts and grasslands to forests, across various continents.",
+    "diet": "Herbivore (grasses, leaves, flowers, fruits)",
+    "predators": [
+      "Humans (habitat loss, pet trade)",
+      "Large birds of prey (prey on young)",
+      "Wild dogs",
+      "Raccoons"
+    ],
+    "prey": [
+      "Grasses",
+      "Leaves",
+      "Flowers",
+      "Fruits"
+    ],
+    "type": "Reptile",
+    "weight_kg": {
+      "min": 0.5,
+      "max": 400
+    },
+    "average_lifespan_years": "50-100+, some species over 150",
+    "interesting_fact": "The Galápagos tortoise is one of the most famous long-lived tortoise species, playing a significant role in Darwin's theory of evolution.",
+    "image_url": "./images2/tortoise.webp"
+  },
+  {
+    "id": 49,
+    "name": "Tuna",
+    "fun_facts": [
+      "Tuna are powerful, streamlined fish built for speed, capable of swimming at speeds up to 75 km/h (47 mph).",
+      "They are unique among fish in their ability to maintain a body temperature higher than the surrounding water.",
+      "Tuna undertake extensive migrations across oceans."
+    ],
+    "habitat": "Open ocean waters worldwide, both temperate and tropical.",
+    "diet": "Carnivore (fish, crustaceans, squid)",
+    "predators": [
+      "Sharks",
+      "Orcas (killer whales)",
+      "Humans"
+    ],
+    "prey": [
+      "Sardines",
+      "Mackerel",
+      "Herring",
+      "Squid",
+      "Crustaceans"
+    ],
+    "type": "Fish",
+    "weight_kg": {
+      "min": 0.5,
+      "max": 680
+    },
+    "average_lifespan_years": "10-20, depending on species",
+    "interesting_fact": "Bluefin tuna are among the most sought-after fish for sushi and sashimi, leading to concerns about overfishing.",
+    "image_url": "./images2/tuna.webp"
+  },
+  {
+    "id": 50,
+    "name": "Walrus",
+    "fun_facts": [
+      "Walruses are large marine mammals known for their prominent tusks, which are elongated canine teeth.",
+      "They use their tusks to haul themselves out of the water onto ice, and to break through ice.",
+      "Walruses have sensitive whiskers (vibrissae) that help them locate food on the seabed."
+    ],
+    "habitat": "Shallow coastal waters and ice floes in the Arctic Ocean and subarctic seas.",
+    "diet": "Carnivore (primarily mollusks like clams, but also worms, snails, sea cucumbers, and occasionally seals)",
+    "predators": [
+      "Polar bears (mainly calves or sick adults)",
+      "Orcas (killer whales)",
+      "Humans"
+    ],
+    "prey": [
+      "Clams",
+      "Mussels",
+      "Worms",
+      "Snails",
+      "Sea cucumbers",
+      "Occasionally seals"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 800,
+      "male_max": 1700,
+      "female_min": 400,
+      "female_max": 1200
+    },
+    "average_lifespan_years": "30-40",
+    "interesting_fact": "Walruses can slow their heart rate to dive to depths of 80 meters (260 feet) or more.",
+    "image_url": "./images2/walrus.webp"
+  },
+  {
+    "id": 51,
+    "name": "Warthog",
+    "fun_facts": [
+      "Warthogs are wild pigs found in Africa, known for their large tusks and facial warts (which are actually protective pads).",
+      "They often kneel on their front legs to graze, especially when the grass is short.",
+      "Warthogs run with their tails held straight up in the air, a peculiar and easily recognizable sight."
+    ],
+    "habitat": "Grasslands, savannas, and woodlands in sub-Saharan Africa.",
+    "diet": "Omnivore (grasses, roots, berries, bark, fungi, insects, eggs, carrion)",
+    "predators": [
+      "Lions",
+      "Leopards",
+      "Cheetahs",
+      "Hyenas",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses",
+      "Roots",
+      "Berries",
+      "Bark",
+      "Fungi",
+      "Insects",
+      "Eggs",
+      "Carrion"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 45,
+      "max": 150
+    },
+    "average_lifespan_years": "10-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "Warthogs are known to use abandoned aardvark burrows as shelter from predators and the heat, often backing in headfirst.",
+    "image_url": "./images3/warthog.webp"
+  },
+  {
+    "id": 52,
+    "name": "Wildebeest",
+    "fun_facts": [
+      "Wildebeest, also known as gnus, are antelopes native to the savannas of Africa.",
+      "They are famous for their large annual migrations in East Africa, involving millions of animals.",
+      "Wildebeest communicate through various vocalizations, including their characteristic 'gnu' call."
+    ],
+    "habitat": "Grasslands and savannas of East and Southern Africa.",
+    "diet": "Herbivore (primarily short grasses)",
+    "predators": [
+      "Lions",
+      "Hyenas",
+      "Cheetahs",
+      "Leopards",
+      "Crocodiles (during river crossings)"
+    ],
+    "prey": [
+      "Grasses"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 120,
+      "max": 270
+    },
+    "average_lifespan_years": "15-20 in the wild",
+    "interesting_fact": "During their migration, wildebeest form massive herds, which is a defense mechanism against predators, as safety lies in numbers.",
+    "image_url": "./images3/wildebeest.webp"
+  },
+  {
+    "id": 53,
+    "name": "Wolf",
+    "fun_facts": [
+      "Wolves are the largest wild members of the dog family, known for their howling.",
+      "They are highly social animals, living and hunting in well-organized packs.",
+      "Wolf packs typically consist of a breeding pair, their offspring, and sometimes other non-breeding adults."
+    ],
+    "habitat": "Forests, tundras, mountains, and grasslands across North America, Europe, and Asia.",
+    "diet": "Carnivore (large ungulates like deer, moose, elk, caribou, and smaller prey)",
+    "predators": [
+      "Humans"
+    ],
+    "prey": [
+      "Deer",
+      "Moose",
+      "Elk",
+      "Caribou",
+      "Bison",
+      "Beaver",
+      "Rodents"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 20,
+      "max": 80
+    },
+    "average_lifespan_years": "6-8 in the wild, up to 16 in captivity",
+    "interesting_fact": "Wolf howls are used for various reasons, including locating pack members, warning off rivals, and gathering the pack for a hunt.",
+    "image_url": "./images3/wolf.webp"
+  },
+  {
+    "id": 54,
+    "name": "Wombat",
+    "fun_facts": [
+      "Wombats are marsupials native to Australia, known for their muscular, short-legged bodies and burrowing habits.",
+      "They have a unique backward-facing pouch, which prevents dirt from getting on their young while digging.",
+      "Wombats have a thick hide and a bony plate on their rump, which they use to block burrow entrances from predators."
+    ],
+    "habitat": "Forests, mountains, and grasslands in southeastern Australia and Tasmania.",
+    "diet": "Herbivore (grasses, roots, herbs, bark)",
+    "predators": [
+      "Dingoes",
+      "Tasmanian devils (Tasmania only)",
+      "Humans (habitat loss, road accidents)"
+    ],
+    "prey": [
+      "Grasses",
+      "Roots",
+      "Herbs",
+      "Bark"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 20,
+      "max": 35
+    },
+    "average_lifespan_years": "5-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "Wombat feces are cube-shaped, which helps them mark territory without the droppings rolling away.",
+    "image_url": "./images3/wombat.webp"
+  },
+  {
+    "id": 55,
+    "name": "Woodpecker",
+    "fun_facts": [
+      "Woodpeckers are birds known for their ability to 'peck' holes in tree trunks, primarily to find insects.",
+      "Their skulls have specialized shock-absorbing tissues that protect their brains from repeated impacts.",
+      "They have long, barbed tongues that can extend far beyond their beaks to extract insects from wood."
+    ],
+    "habitat": "Forests, woodlands, and suburban areas with trees worldwide, excluding Australia, New Zealand, and Antarctica.",
+    "diet": "Omnivore (insects, larvae, sap, nuts, seeds, fruits)",
+    "predators": [
+      "Hawks",
+      "Owls",
+      "Snakes",
+      "Weasels",
+      "Humans (habitat loss)"
+    ],
+    "prey": [
+      "Insects (especially wood-boring larvae)",
+      "Sap",
+      "Nuts",
+      "Seeds",
+      "Fruits"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.02,
+      "max": 0.6
+    },
+    "average_lifespan_years": "4-12 depending on species",
+    "interesting_fact": "Some woodpecker species, like sapsuckers, drill rows of small holes in trees to create wells from which they drink sap and eat insects attracted to it.",
+    "image_url": "./images3/woodpecker.webp"
+  },
+  {
+    "id": 56,
+    "name": "Zebra",
+    "fun_facts": [
+      "Zebras are African equids known for their distinctive black and white striped coats.",
+      "Each zebra's stripe pattern is unique, like a human fingerprint.",
+      "The stripes are thought to deter biting flies and confuse predators."
+    ],
+    "habitat": "Grasslands, savannas, and woodlands of Eastern and Southern Africa.",
+    "diet": "Herbivore (primarily grasses)",
+    "predators": [
+      "Lions",
+      "Hyenas",
+      "Crocodiles",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 200,
+      "max": 450
+    },
+    "average_lifespan_years": "20-30 in the wild",
+    "interesting_fact": "When zebras graze in a herd, their stripes make it difficult for predators to pick out an individual, creating a 'dazzle camouflage' effect.",
+    "image_url": "./images3/zebra.webp"
+  },
+  {
+    "id": 57,
+    "name": "Ant",
+    "fun_facts": [
+      "Ants are social insects that live in highly organized colonies.",
+      "They are incredibly strong for their size, capable of carrying objects many times their own weight.",
+      "Ants use chemical signals (pheromones) to communicate, navigate, and mark trails."
+    ],
+    "habitat": "Almost all terrestrial environments worldwide, from forests and deserts to urban areas.",
+    "diet": "Omnivore (nectar, seeds, fungi, insects, small animals, human food scraps)",
+    "predators": [
+      "Anteaters",
+      "Spiders",
+      "Birds",
+      "Other ant species",
+      "Antlions"
+    ],
+    "prey": [
+      "Nectar",
+      "Seeds",
+      "Fungi",
+      "Insects",
+      "Small animals"
+    ],
+    "type": "Insect",
+    "weight_kg": {
+      "min": 1e-06,
+      "max": 0.0001
+    },
+    "average_lifespan_years": "Weeks for workers, years for queens",
+    "interesting_fact": "A single ant colony can contain millions of individual ants.",
+    "image_url": "./images3/ant.webp"
+  },
+  {
+    "id": 58,
+    "name": "Armadillo",
+    "fun_facts": [
+      "Armadillos are mammals known for their leathery, armor-like shell, which is made of bony plates.",
+      "The nine-banded armadillo is the only species found in the United States and can jump straight up to 3-4 feet when startled.",
+      "They are excellent diggers, using their strong claws to create burrows and forage for food."
+    ],
+    "habitat": "Forests, grasslands, and semi-deserts in North, Central, and South America.",
+    "diet": "Omnivore (insects, larvae, worms, roots, fruits, sometimes small vertebrates)",
+    "predators": [
+      "Coyotes",
+      "Bobcats",
+      "Bears",
+      "Alligators",
+      "Humans"
+    ],
+    "prey": [
+      "Insects",
+      "Larvae",
+      "Worms",
+      "Roots",
+      "Fruits",
+      "Small vertebrates"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.1,
+      "max": 60
+    },
+    "average_lifespan_years": "4-7 in the wild, up to 20 in captivity",
+    "interesting_fact": "Armadillos can hold their breath for up to 6 minutes, allowing them to cross small bodies of water underwater by walking on the bottom.",
+    "image_url": "./images3/armadillo.webp"
+  },
+  {
+    "id": 59,
+    "name": "Bat",
+    "fun_facts": [
+      "Bats are the only mammals capable of sustained flight.",
+      "Most bats are nocturnal and use echolocation to navigate and hunt in the dark.",
+      "There are over 1,400 species of bats, making them the second most diverse order of mammals after rodents."
+    ],
+    "habitat": "Forests, caves, wetlands, deserts, and urban areas worldwide, excluding Antarctica and some oceanic islands.",
+    "diet": "Varies by species (insects, fruits, nectar, pollen, fish, small animals, blood for vampire bats)",
+    "predators": [
+      "Owls",
+      "Hawks",
+      "Snakes",
+      "Cats",
+      "Humans (habitat loss, disease)"
+    ],
+    "prey": [
+      "Insects",
+      "Fruits",
+      "Nectar",
+      "Pollen",
+      "Fish",
+      "Small animals"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.002,
+      "max": 1.5
+    },
+    "average_lifespan_years": "5-30, depending on species",
+    "interesting_fact": "Many bat species play vital roles in ecosystems by pollinating plants and dispersing seeds.",
+    "image_url": "./images3/bat.webp"
+  },
+  {
+    "id": 60,
+    "name": "Beaver",
+    "fun_facts": [
+      "Beavers are the second-largest rodents in the world, known for their ability to build dams and lodges.",
+      "They have large, constantly growing incisors that they use to gnaw down trees.",
+      "Their broad, flat, scaly tail is used for steering in water, storing fat, and signaling danger by slapping it on the water."
+    ],
+    "habitat": "Rivers, streams, lakes, and ponds in temperate North America and Eurasia.",
+    "diet": "Herbivore (bark, leaves, twigs, roots of trees and aquatic plants)",
+    "predators": [
+      "Wolves",
+      "Bears",
+      "Coyotes",
+      "Lynx",
+      "Humans"
+    ],
+    "prey": [
+      "Bark",
+      "Leaves",
+      "Twigs",
+      "Roots of trees (especially aspen, willow, birch)",
+      "Aquatic plants"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 11,
+      "max": 32
+    },
+    "average_lifespan_years": "10-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "Beaver dams create wetlands that support a wide variety of other wildlife.",
+    "image_url": "./images3/beaver.webp"
+  },
+  {
+    "id": 61,
+    "name": "Bee",
+    "fun_facts": [
+      "Bees are flying insects known for their role in pollination and, in the case of honey bees, for producing honey and beeswax.",
+      "They live in highly organized colonies with a queen, drones, and worker bees.",
+      "Honey bees perform a 'waggle dance' to communicate the location of food sources to other bees."
+    ],
+    "habitat": "Found in almost every habitat containing flowering plants, globally.",
+    "diet": "Herbivore (nectar and pollen from flowers)",
+    "predators": [
+      "Birds",
+      "Spiders",
+      "Praying mantises",
+      "Badgers",
+      "Bears",
+      "Wasps"
+    ],
+    "prey": [
+      "Nectar",
+      "Pollen"
+    ],
+    "type": "Insect",
+    "weight_kg": {
+      "min": 0.0001,
+      "max": 0.001
+    },
+    "average_lifespan_years": "Few weeks for worker bees, 1-5 years for queen bees",
+    "interesting_fact": "A single honey bee visits 50 to 100 flowers during a collection trip.",
+    "image_url": "./images3/bee.webp"
+  },
+  {
+    "id": 62,
+    "name": "Bison",
+    "fun_facts": [
+      "Bison are large, shaggy-haired bovines native to North America and Europe (European bison or wisent).",
+      "They are the largest land animals in North America.",
+      "Bison play a crucial role in grassland ecosystems through their grazing and trampling, which helps maintain biodiversity."
+    ],
+    "habitat": "Grasslands, plains, and open woodlands in North America and parts of Europe.",
+    "diet": "Herbivore (primarily grasses and sedges)",
+    "predators": [
+      "Wolves",
+      "Grizzly bears (especially calves)",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses",
+      "Sedges"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 400,
+      "male_max": 1000,
+      "female_min": 300,
+      "female_max": 600
+    },
+    "average_lifespan_years": "15-20 in the wild, up to 25 in captivity",
+    "interesting_fact": "Despite their massive size, bison are surprisingly agile and can run up to 56 km/h (35 mph) and jump over 1.8 meters (6 feet) high.",
+    "image_url": "./images3/bison.webp"
+  },
+  {
+    "id": 63,
+    "name": "Butterfly",
+    "fun_facts": [
+      "Butterflies undergo complete metamorphosis, transforming from a larva (caterpillar) to a pupa, and then to an adult butterfly.",
+      "Their wings are covered in tiny, overlapping scales that create their vibrant colors and patterns.",
+      "Butterflies taste with their feet and feed using a proboscis, a long, tube-like mouthpart."
+    ],
+    "habitat": "Diverse habitats worldwide, including forests, grasslands, deserts, wetlands, and urban gardens.",
+    "diet": "Herbivore (nectar, sap, rotting fruit, dung, pollen)",
+    "predators": [
+      "Birds",
+      "Spiders",
+      "Lizards",
+      "Frogs",
+      "Praying mantises"
+    ],
+    "prey": [
+      "Nectar",
+      "Sap",
+      "Rotting fruit",
+      "Dung",
+      "Pollen"
+    ],
+    "type": "Insect",
+    "weight_kg": {
+      "min": 0.0001,
+      "max": 0.005
+    },
+    "average_lifespan_years": "Few weeks to several months (some migratory species can live up to 9 months)",
+    "interesting_fact": "The monarch butterfly undertakes an incredible annual migration of up to 4,800 kilometers (3,000 miles) from Canada and the US to Mexico.",
+    "image_url": "./images3/butterfly.webp"
+  },
+  {
+    "id": 64,
+    "name": "Camel",
+    "fun_facts": [
+      "Camels are even-toed ungulates known for their distinctive fatty humps (one for dromedaries, two for Bactrian camels).",
+      "The humps store fat, which can be metabolized for energy and water, allowing them to survive long periods without food or water.",
+      "Camels can close their nostrils to keep sand out and have long eyelashes to protect their eyes from sandstorms."
+    ],
+    "habitat": "Deserts and arid regions of North Africa, the Middle East, and Central Asia.",
+    "diet": "Herbivore (desert vegetation, including thorny plants)",
+    "predators": [
+      "Humans",
+      "Wolves (rarely, in some areas)"
+    ],
+    "prey": [
+      "Desert vegetation",
+      "Grasses",
+      "Leaves",
+      "Thorns"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 300,
+      "max": 700
+    },
+    "average_lifespan_years": "40-50",
+    "interesting_fact": "A camel can drink up to 100 liters (26 gallons) of water in just 10-15 minutes.",
+    "image_url": "./images3/camel.webp"
+  },
+  {
+    "id": 65,
+    "name": "Capybara",
+    "fun_facts": [
+      "Capybaras are the largest rodents in the world, native to South America.",
+      "They are semi-aquatic, spending much of their time in water, where they can hold their breath for up to 5 minutes.",
+      "Capybaras are highly social animals, living in groups of 10-20 individuals."
+    ],
+    "habitat": "Dense forests, savannas, and wetlands near water bodies in South America.",
+    "diet": "Herbivore (grasses, aquatic plants, fruits, bark)",
+    "predators": [
+      "Jaguars",
+      "Pumas",
+      "Caimans",
+      "Anacondas",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses",
+      "Aquatic plants",
+      "Fruits",
+      "Bark"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 35,
+      "max": 66
+    },
+    "average_lifespan_years": "8-10 in the wild, up to 12 in captivity",
+    "interesting_fact": "Capybaras often allow birds to perch on their backs and eat insects from their fur, a symbiotic relationship.",
+    "image_url": "./images3/capybara.webp"
+  },
+  {
+    "id": 66,
+    "name": "Caribou",
+    "fun_facts": [
+      "Caribou (known as reindeer in Eurasia) are deer species, notable because both male and female caribou grow antlers.",
+      "They are well-adapted to cold environments, with thick coats and large hooves that act like snowshoes.",
+      "Caribou undertake some of the longest terrestrial migrations of any mammal."
+    ],
+    "habitat": "Tundra, boreal forests, and mountains in Arctic and sub-Arctic regions of North America, Europe, and Asia.",
+    "diet": "Herbivore (lichen, mosses, sedges, grasses, leaves of shrubs)",
+    "predators": [
+      "Wolves",
+      "Grizzly bears",
+      "Polar bears (in coastal areas)",
+      "Wolverines",
+      "Humans"
+    ],
+    "prey": [
+      "Lichen",
+      "Mosses",
+      "Sedges",
+      "Grasses",
+      "Leaves of shrubs"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 60,
+      "max": 300
+    },
+    "average_lifespan_years": "15-20 in the wild",
+    "interesting_fact": "Caribou hooves change shape seasonally; in winter, they become harder and sharper, providing better grip on ice and snow.",
+    "image_url": "./images3/caribou.webp"
+  },
+  {
+    "id": 67,
+    "name": "Cassowary",
+    "fun_facts": [
+      "Cassowaries are large, flightless birds native to the tropical rainforests of New Guinea and northeastern Australia.",
+      "They are often considered the most dangerous birds in the world due to their powerful legs and dagger-like claws.",
+      "Cassowaries have a distinctive bony casque on their heads, which may protect them from falling fruit or aid in pushing through dense vegetation."
+    ],
+    "habitat": "Tropical rainforests and woodlands of New Guinea and northeastern Australia.",
+    "diet": "Omnivore (primarily fallen fruit, but also fungi, insects, small vertebrates)",
+    "predators": [
+      "Humans",
+      "Dingoes (prey on chicks)",
+      "Snakes (prey on chicks)"
+    ],
+    "prey": [
+      "Fruit",
+      "Fungi",
+      "Insects",
+      "Small vertebrates"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 30,
+      "max": 60
+    },
+    "average_lifespan_years": "40-50 in the wild",
+    "interesting_fact": "Cassowaries play a crucial ecological role as seed dispersers for many rainforest trees, especially for large fruits that other animals cannot consume.",
+    "image_url": "./images3/cassowary.webp"
+  },
+  {
+    "id": 68,
+    "name": "Caterpillar",
+    "fun_facts": [
+      "Caterpillars are the larval stage of butterflies and moths.",
+      "They are voracious eaters, primarily consuming leaves, to grow rapidly before pupating.",
+      "Many caterpillars have fascinating defense mechanisms, including camouflage, bright warning colors, and irritating hairs."
+    ],
+    "habitat": "Found in almost every terrestrial habitat where their host plants grow, globally.",
+    "diet": "Herbivore (primarily leaves of specific host plants, sometimes flowers or fruits)",
+    "predators": [
+      "Birds",
+      "Wasps",
+      "Spiders",
+      "Lizards",
+      "Frogs",
+      "Small mammals"
+    ],
+    "prey": [
+      "Leaves",
+      "Flowers",
+      "Fruits"
+    ],
+    "type": "Insect (Larva)",
+    "weight_kg": {
+      "min": 1e-05,
+      "max": 0.005
+    },
+    "average_lifespan_years": "Weeks to a few months (larval stage)",
+    "interesting_fact": "Some caterpillars can produce silk, which they use to build shelters, climb, or spin cocoons for pupation.",
+    "image_url": "./images3/caterpillar.webp"
+  },
+  {
+    "id": 69,
+    "name": "Chameleon",
+    "fun_facts": [
+      "Chameleons are lizards famous for their ability to change color, not just for camouflage but also for communication and thermoregulation.",
+      "They have independently moving eyes, allowing them to look in two different directions at once.",
+      "Chameleons possess a long, sticky tongue that can be twice the length of their body, which they use to rapidly catch prey."
+    ],
+    "habitat": "Forests, rainforests, savannas, and semi-deserts, primarily in Africa and Madagascar.",
+    "diet": "Carnivore (insects, small lizards, birds)",
+    "predators": [
+      "Birds of prey",
+      "Snakes",
+      "Monkeys",
+      "Humans (pet trade, habitat loss)"
+    ],
+    "prey": [
+      "Insects",
+      "Small lizards",
+      "Small birds"
+    ],
+    "type": "Reptile",
+    "weight_kg": {
+      "min": 0.01,
+      "max": 0.5
+    },
+    "average_lifespan_years": "2-10 depending on species",
+    "interesting_fact": "Chameleons' toes are arranged in groups of two and three, forming pincer-like claws that provide a strong grip on branches.",
+    "image_url": "./images3/chameleon.webp"
+  },
+  {
+    "id": 70,
+    "name": "Crab",
+    "fun_facts": [
+      "Crabs are crustaceans with a thick exoskeleton, a single pair of claws, and typically a very short, tucked-under tail.",
+      "They walk sideways, which is a distinctive characteristic.",
+      "Crabs are omnivores and scavengers, playing an important role in cleaning up their ecosystems."
+    ],
+    "habitat": "Diverse marine, freshwater, and terrestrial environments worldwide, from deep ocean trenches to tropical beaches.",
+    "diet": "Omnivore (algae, mollusks, worms, crustaceans, fungi, bacteria, detritus)",
+    "predators": [
+      "Fish",
+      "Birds",
+      "Octopuses",
+      "Humans",
+      "Larger crabs"
+    ],
+    "prey": [
+      "Algae",
+      "Mollusks",
+      "Worms",
+      "Crustaceans",
+      "Fungi",
+      "Bacteria",
+      "Detritus"
+    ],
+    "type": "Crustacean",
+    "weight_kg": {
+      "min": 0.001,
+      "max": 19
+    },
+    "average_lifespan_years": "3-10, some species up to 100 (e.g., Japanese spider crab)",
+    "interesting_fact": "The largest known crab species is the Japanese spider crab, which can have a leg span of up to 3.7 meters (12 feet).",
+    "image_url": "./images3/crab.webp"
+  },
+  {
+    "id": 71,
+    "name": "Deer",
+    "fun_facts": [
+      "Deer are ruminant mammals forming the family Cervidae, characterized by the presence of antlers in most males (and female reindeer).",
+      "Antlers are bony growths that are shed and regrown annually, unlike horns which are permanent.",
+      "Deer have an excellent sense of smell and hearing, crucial for detecting predators."
+    ],
+    "habitat": "Forests, grasslands, wetlands, and tundra across most continents, except Australia and Antarctica.",
+    "diet": "Herbivore (leaves, twigs, bark, buds, shoots, grasses, forbs)",
+    "predators": [
+      "Wolves",
+      "Cougars",
+      "Bears",
+      "Lynx",
+      "Humans"
+    ],
+    "prey": [
+      "Leaves",
+      "Twigs",
+      "Bark",
+      "Buds",
+      "Shoots",
+      "Grasses",
+      "Forbs"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 10,
+      "max": 400
+    },
+    "average_lifespan_years": "5-15 in the wild, depending on species and region",
+    "interesting_fact": "White-tailed deer can run at speeds up to 48 km/h (30 mph) and jump obstacles over 2.7 meters (9 feet) high.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/White-tailed_deer_doe.webp/1280px-White-tailed_deer_doe.webp"
+  },
+  {
+    "id": 72,
+    "name": "Dog",
+    "fun_facts": [
+      "Dogs are domesticated mammals, descended from wolves, and are known for their loyalty and companionship to humans.",
+      "They have an exceptional sense of smell, estimated to be 10,000 to 100,000 times more acute than humans'.",
+      "Dogs communicate through a variety of barks, growls, whines, and body language."
+    ],
+    "habitat": "Domesticated worldwide; feral dogs can be found in various environments.",
+    "diet": "Omnivore (depends on diet provided by humans or scavenging)",
+    "predators": [
+      "Humans (often in cases of abuse or culling)",
+      "Larger predators in wild settings (e.g., wolves, bears)"
+    ],
+    "prey": [
+      "Variable, based on diet provided or opportunistic scavenging"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 1,
+      "max": 100
+    },
+    "average_lifespan_years": "10-13, varies greatly by breed and size",
+    "interesting_fact": "The oldest known dog breed is the Basenji, originating from Central Africa.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Labrador_Retriever_dog.webp/1280px-Labrador_Retriever_dog.webp"
+  },
+  {
+    "id": 73,
+    "name": "Duck",
+    "fun_facts": [
+      "Ducks are waterfowl known for their webbed feet, which are ideal for swimming.",
+      "Many duck species are migratory, traveling long distances between breeding and wintering grounds.",
+      "Ducks have waterproof feathers due to a special oil they spread over their plumage."
+    ],
+    "habitat": "Freshwater and saltwater environments worldwide, including ponds, lakes, rivers, and coastal areas.",
+    "diet": "Omnivore (aquatic plants, seeds, insects, worms, small crustaceans, fish)",
+    "predators": [
+      "Foxes",
+      "Raccoons",
+      "Snakes",
+      "Birds of prey",
+      "Humans"
+    ],
+    "prey": [
+      "Aquatic plants",
+      "Seeds",
+      "Insects",
+      "Worms",
+      "Small crustaceans",
+      "Fish"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.5,
+      "max": 3
+    },
+    "average_lifespan_years": "5-10 in the wild, up to 20 in captivity",
+    "interesting_fact": "The male duck's (drake's) reproductive organ can be extraordinarily long and corkscrew-shaped in some species.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mallard_duck.webp/1280px-Mallard_duck.webp"
+  },
+  {
+    "id": 74,
+    "name": "Eagle",
+    "fun_facts": [
+      "Eagles are large, powerful birds of prey with heavy heads and beaks and strong, muscular legs.",
+      "They have exceptional eyesight, allowing them to spot prey from very high altitudes.",
+      "Eagles build large nests, called eyries, often in tall trees or on cliffs."
+    ],
+    "habitat": "Diverse habitats including mountains, forests, coastlines, and open plains across most continents.",
+    "diet": "Carnivore (fish, small mammals, other birds, reptiles, carrion)",
+    "predators": [
+      "Humans (habitat destruction, poisoning)",
+      "Larger predators may occasionally target young eagles or eggs"
+    ],
+    "prey": [
+      "Fish",
+      "Small mammals (rabbits, marmots)",
+      "Other birds",
+      "Reptiles",
+      "Carrion"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 3,
+      "max": 7
+    },
+    "average_lifespan_years": "20-30 in the wild, up to 50 in captivity",
+    "interesting_fact": "The Golden Eagle is one of the most widespread eagle species, found in the Northern Hemisphere.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Golden_Eagle_%28Aquila_chrysaetos%29_in_flight.webp/1280px-Golden_Eagle_%28Aquila_chrysaetos%29_in_flight.webp"
+  },
+  {
+    "id": 75,
+    "name": "Falcon",
+    "fun_facts": [
+      "Falcons are birds of prey known for their incredible speed and agility in flight.",
+      "The peregrine falcon is the fastest bird in the world, capable of diving at speeds over 320 km/h (200 mph).",
+      "They have a distinctive 'tomial tooth' or notch on their beak, which they use to sever the spine of their prey."
+    ],
+    "habitat": "Various habitats from open country, coastlines, and mountains to urban areas, found worldwide.",
+    "diet": "Carnivore (primarily birds, but also small mammals and insects)",
+    "predators": [
+      "Larger birds of prey (rarely)",
+      "Humans (habitat destruction, persecution)"
+    ],
+    "prey": [
+      "Birds",
+      "Small mammals",
+      "Insects"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.1,
+      "max": 2
+    },
+    "average_lifespan_years": "10-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "Peregrine falcons have specialized nostrils that allow them to breathe efficiently during their high-speed dives by managing air pressure.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Peregrine_Falcon_%28Falco_peregrinus%29.webp/1280px-Peregrine_Falcon_%28Falco_peregrinus%29.webp"
+  },
+  {
+    "id": 76,
+    "name": "Ferret",
+    "fun_facts": [
+      "Ferrets are domesticated polecats, slender, carnivorous mammals belonging to the weasel family.",
+      "They are known for their playful and curious nature, and for sleeping up to 75% of the day.",
+      "Ferrets have a distinctive musky odor due to scent glands, which can be expressed when startled."
+    ],
+    "habitat": "Domesticated worldwide; wild polecats inhabit forests, grasslands, and farmlands in Eurasia and North Africa.",
+    "diet": "Carnivore (small rodents, rabbits, birds, insects)",
+    "predators": [
+      "Humans (for wild polecats)",
+      "Birds of prey",
+      "Foxes",
+      "Badgers"
+    ],
+    "prey": [
+      "Rodents",
+      "Rabbits",
+      "Birds",
+      "Insects"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.5,
+      "max": 2
+    },
+    "average_lifespan_years": "5-10 in captivity",
+    "interesting_fact": "The practice of 'ferreting' involves using ferrets to flush out rabbits from burrows for hunting.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ferrets_playing.webp/1280px-Ferrets_playing.webp"
+  },
+  {
+    "id": 77,
+    "name": "Flamingo",
+    "fun_facts": [
+      "Flamingos are wading birds known for their striking pink or reddish plumage, long legs, and S-shaped necks.",
+      "Their distinctive color comes from carotenoid pigments in the food they eat (algae, brine shrimp).",
+      "Flamingos filter-feed by holding their beaks upside down in the water, sieving out small organisms."
+    ],
+    "habitat": "Shallow lagoons, lakes, and estuaries in tropical and subtropical regions worldwide.",
+    "diet": "Omnivore (algae, brine shrimp, small insects, larvae)",
+    "predators": [
+      "Lions",
+      "Hyenas",
+      "Jackals",
+      "Birds of prey (prey on eggs and chicks)",
+      "Humans"
+    ],
+    "prey": [
+      "Algae",
+      "Brine shrimp",
+      "Small insects",
+      "Larvae"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 2,
+      "max": 4
+    },
+    "average_lifespan_years": "20-30 in the wild, up to 50 in captivity",
+    "interesting_fact": "Flamingos often stand on one leg, a behavior thought to conserve body heat or reduce muscle fatigue.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flamingos_at_Lago_Enriquillo.webp/1280px-Flamingos_at_Lago_Enriquillo.webp"
+  },
+  {
+    "id": 78,
+    "name": "Frog",
+    "fun_facts": [
+      "Frogs are amphibians known for their smooth, moist skin, long powerful legs adapted for jumping, and bulging eyes.",
+      "Many species of frogs undergo metamorphosis from aquatic tadpoles to terrestrial adults.",
+      "Frogs use a variety of calls to attract mates, defend territory, and communicate with other frogs."
+    ],
+    "habitat": "Diverse habitats from rainforests and wetlands to deserts, usually near water sources, globally.",
+    "diet": "Carnivore (insects, spiders, slugs, worms, small fish)",
+    "predators": [
+      "Snakes",
+      "Birds",
+      "Fish",
+      "Mammals (e.g., raccoons, otters)",
+      "Humans (habitat loss, pollution)"
+    ],
+    "prey": [
+      "Insects",
+      "Spiders",
+      "Slugs",
+      "Worms",
+      "Small fish"
+    ],
+    "type": "Amphibian",
+    "weight_kg": {
+      "min": 0.001,
+      "max": 3
+    },
+    "average_lifespan_years": "3-10 in the wild, some species up to 20 in captivity",
+    "interesting_fact": "The largest frog in the world is the Goliath frog of West Africa, which can grow over 30 cm (1 foot) long and weigh more than 3 kg (7 pounds).",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29.webp/1280px-Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29.webp"
+  },
+  {
+    "id": 79,
+    "name": "Gazelle",
+    "fun_facts": [
+      "Gazelles are agile antelopes known for their speed and ability to make sudden turns, allowing them to escape predators.",
+      "Many species can run at sustained speeds of 60-80 km/h (37-50 mph) and sprint up to 97 km/h (60 mph).",
+      "They have slender bodies, long legs, and often distinct facial markings."
+    ],
+    "habitat": "Grasslands, savannas, and deserts of Africa and Asia.",
+    "diet": "Herbivore (grasses, leaves, shoots, herbs)",
+    "predators": [
+      "Cheetahs",
+      "Lions",
+      "Leopards",
+      "Hyenas",
+      "Wild dogs"
+    ],
+    "prey": [
+      "Grasses",
+      "Leaves",
+      "Shoots",
+      "Herbs"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 12,
+      "max": 75
+    },
+    "average_lifespan_years": "10-12 in the wild",
+    "interesting_fact": "Thomson's gazelle is known for 'stotting,' a behavior where it leaps high into the air with all four feet off the ground, often to signal to a predator that it has been spotted.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Thomson%27s_Gazelle_on_the_Serengeti.webp/1280px-Thomson%27s_Gazelle_on_the_Serengeti.webp"
+  },
+  {
+    "id": 80,
+    "name": "Goat",
+    "fun_facts": [
+      "Goats are domesticated ruminant mammals known for their hardiness and ability to graze on a wide variety of vegetation.",
+      "They have distinctive rectangular pupils, which give them a wide field of vision.",
+      "Goats are very agile and excellent climbers, often found on steep slopes and rocky terrain."
+    ],
+    "habitat": "Domesticated worldwide; wild goats inhabit mountainous and rocky regions.",
+    "diet": "Herbivore (grasses, leaves, shrubs, thorny bushes)",
+    "predators": [
+      "Humans",
+      "Wolves",
+      "Big cats (e.g., cougars, snow leopards)",
+      "Bears"
+    ],
+    "prey": [
+      "Grasses",
+      "Leaves",
+      "Shrubs",
+      "Thorns"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 20,
+      "max": 140
+    },
+    "average_lifespan_years": "15-18",
+    "interesting_fact": "Goats are one of the first animals to be domesticated by humans, around 10,000 years ago.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Domestic_goat_grazing_in_a_field.webp/1280px-Domestic_goat_grazing_in_a_field.webp"
+  },
+  {
+    "id": 81,
+    "name": "Goose",
+    "fun_facts": [
+      "Geese are large waterfowl known for their strong family bonds and aggressive territorial behavior.",
+      "They are highly migratory, often flying in V-formations, which helps conserve energy.",
+      "Geese are primarily herbivorous, grazing on grasses and aquatic plants."
+    ],
+    "habitat": "Found near water bodies like lakes, ponds, rivers, and marshes across most continents.",
+    "diet": "Herbivore (grasses, grains, aquatic plants, roots)",
+    "predators": [
+      "Foxes",
+      "Coyotes",
+      "Eagles",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses",
+      "Grains",
+      "Aquatic plants",
+      "Roots"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 3,
+      "max": 9
+    },
+    "average_lifespan_years": "10-24 in the wild, up to 30 in captivity",
+    "interesting_fact": "Some geese pairs mate for life and are known to mourn the loss of a partner.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canada_Goose_%28Branta_canadensis%29_in_flight.webp/1280px-Canada_Goose_%28Branta_canadensis%29_in_flight.webp"
+  },
+  {
+    "id": 82,
+    "name": "Guinea Pig",
+    "fun_facts": [
+      "Guinea pigs are small, tailless rodents native to South America, commonly kept as pets.",
+      "They are social animals and prefer to live in groups.",
+      "Guinea pigs cannot synthesize their own Vitamin C and require it from their diet, similar to humans."
+    ],
+    "habitat": "Domesticated worldwide; wild ancestors lived in grassy plains and rocky areas of South America.",
+    "diet": "Herbivore (hay, fresh vegetables, commercial pellets)",
+    "predators": [
+      "Foxes",
+      "Weasels",
+      "Owls",
+      "Cats",
+      "Humans (predators of wild ancestors)"
+    ],
+    "prey": [
+      "Hay",
+      "Vegetables",
+      "Pellets"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.7,
+      "max": 1.2
+    },
+    "average_lifespan_years": "5-8",
+    "interesting_fact": "Despite their name, guinea pigs are not from Guinea and are not pigs; their name might come from the 'squeal' sound they make.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Guinea_pig_-_November_2016.webp/1280px-Guinea_pig_-_November_2016.webp"
+  },
+  {
+    "id": 83,
+    "name": "Hamster",
+    "fun_facts": [
+      "Hamsters are rodents known for their short tails, stumpy legs, and large cheek pouches used to carry food.",
+      "They are typically nocturnal, meaning they are most active at night.",
+      "Hamsters hoard food in their burrows, a behavior essential for survival in the wild."
+    ],
+    "habitat": "Domesticated worldwide; wild hamsters inhabit steppes, sand dunes, and arid regions of Eurasia.",
+    "diet": "Omnivore (seeds, nuts, grains, fruits, vegetables, insects)",
+    "predators": [
+      "Owls",
+      "Foxes",
+      "Snakes",
+      "Weasels",
+      "Cats"
+    ],
+    "prey": [
+      "Seeds",
+      "Nuts",
+      "Grains",
+      "Fruits",
+      "Vegetables",
+      "Insects"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.02,
+      "max": 0.2
+    },
+    "average_lifespan_years": "2-3",
+    "interesting_fact": "The name 'hamster' comes from the German word 'hamstern,' which means 'to hoard.'",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Golden_Hamster_in_straw.webp/1280px-Golden_Hamster_in_straw.webp"
+  },
+  {
+    "id": 84,
+    "name": "Hawk",
+    "fun_facts": [
+      "Hawks are medium-sized diurnal birds of prey, known for their sharp talons, hooked beaks, and keen eyesight.",
+      "They are powerful hunters, often employing a 'perch-and-pounce' hunting strategy.",
+      "Many hawk species exhibit sexual dimorphism, with females typically larger than males."
+    ],
+    "habitat": "Diverse habitats including forests, grasslands, deserts, mountains, and urban areas worldwide.",
+    "diet": "Carnivore (small mammals, birds, reptiles, amphibians, insects)",
+    "predators": [
+      "Larger birds of prey (e.g., eagles)",
+      "Owls (nocturnal ambush)",
+      "Humans (habitat loss, persecution)"
+    ],
+    "prey": [
+      "Rodents",
+      "Rabbits",
+      "Small birds",
+      "Snakes",
+      "Frogs",
+      "Large insects"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.1,
+      "max": 2
+    },
+    "average_lifespan_years": "10-20 in the wild, up to 30 in captivity",
+    "interesting_fact": "The Red-tailed Hawk is one of the most common and widespread hawk species in North America.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Red-tailed_Hawk_%28Buteo_jamaicensis%29_in_flight.webp/1280px-Red-tailed_Hawk_%28Buteo_jamaicensis%29_in_flight.webp"
+  },
+  {
+    "id": 85,
+    "name": "Hedgehog",
+    "fun_facts": [
+      "Hedgehogs are small, spiny mammals native to Europe, Asia, and Africa, known for rolling into a ball for defense.",
+      "Their spines are modified hairs, stiffened with keratin, and are not barbed like porcupine quills.",
+      "Hedgehogs are primarily nocturnal and have a good sense of smell and hearing to find prey."
+    ],
+    "habitat": "Woodlands, grasslands, hedgerows, suburban gardens, and parks.",
+    "diet": "Omnivore (insects, worms, slugs, snails, small vertebrates, fruits, fungi)",
+    "predators": [
+      "Badgers",
+      "Foxes",
+      "Owls",
+      "Humans (road traffic, habitat loss)"
+    ],
+    "prey": [
+      "Insects",
+      "Worms",
+      "Slugs",
+      "Snails",
+      "Small vertebrates",
+      "Fruits",
+      "Fungi"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.2,
+      "max": 1.5
+    },
+    "average_lifespan_years": "2-5 in the wild, up to 10 in captivity",
+    "interesting_fact": "Hedgehogs engage in a behavior called 'self-anointing,' where they spread foamy saliva over their spines after encountering a new scent, though its purpose is not fully understood.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/European_hedgehog_in_garden.webp/1280px-European_hedgehog_in_garden.webp"
+  },
+  {
+    "id": 86,
+    "name": "Hyena",
+    "fun_facts": [
+      "Hyenas are carnivorous mammals known for their dog-like appearance, powerful jaws, and distinctive 'laughing' calls.",
+      "Despite their appearance, they are more closely related to cats than to dogs.",
+      "Spotted hyenas live in large, complex social groups called clans, often dominated by females."
+    ],
+    "habitat": "Grasslands, savannas, woodlands, and semi-deserts in Africa and parts of Asia.",
+    "diet": "Carnivore (scavenged carcasses, but also active hunters of ungulates like wildebeest and zebra)",
+    "predators": [
+      "Lions (competition for food, infanticide)",
+      "Humans (persecution, habitat loss)"
+    ],
+    "prey": [
+      "Wildebeest",
+      "Zebra",
+      "Antelope",
+      "Small mammals",
+      "Birds",
+      "Carrion"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 25,
+      "max": 80
+    },
+    "average_lifespan_years": "12-15 in the wild, up to 25 in captivity",
+    "interesting_fact": "Hyenas have incredibly strong jaws and teeth, capable of crushing bones to access marrow, making them efficient scavengers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Spotted_hyena_in_Etosha_National_Park.webp/1280px-Spotted_hyena_in_Etosha_National_Park.webp"
+  },
+  {
+    "id": 87,
+    "name": "Iguana",
+    "fun_facts": [
+      "Iguanas are large, herbivorous lizards native to tropical and subtropical regions of the Americas.",
+      "They are excellent climbers and swimmers, often found near water.",
+      "Iguanas have a parietal eye (or third eye) on top of their heads that detects changes in light, helping them detect predators from above."
+    ],
+    "habitat": "Rainforests, dry forests, coastal areas, and islands in Central and South America and the Caribbean.",
+    "diet": "Herbivore (leaves, flowers, fruits)",
+    "predators": [
+      "Birds of prey",
+      "Snakes",
+      "Mammals (e.g., raccoons, wild cats)",
+      "Humans"
+    ],
+    "prey": [
+      "Leaves",
+      "Flowers",
+      "Fruits"
+    ],
+    "type": "Reptile",
+    "weight_kg": {
+      "min": 1.5,
+      "max": 8
+    },
+    "average_lifespan_years": "15-20 in the wild, up to 25 in captivity",
+    "interesting_fact": "Green iguanas can detach their tails (autotomy) when threatened, which then wiggles to distract the predator while the iguana escapes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Green_Iguana_in_Costa_Rica.webp/1280px-Green_Iguana_in_Costa_Rica.webp"
+  },
+  {
+    "id": 88,
+    "name": "Jackal",
+    "fun_facts": [
+      "Jackals are medium-sized canids native to Africa, Asia, and Southeast Europe, known for their opportunistic feeding habits.",
+      "They are highly adaptable and can thrive in various environments.",
+      "Jackals are primarily nocturnal or crepuscular, hunting alone or in pairs."
+    ],
+    "habitat": "Savannas, grasslands, deserts, scrublands, and open woodlands.",
+    "diet": "Omnivore (small mammals, birds, reptiles, insects, fruit, carrion)",
+    "predators": [
+      "Lions",
+      "Leopards",
+      "Hyenas",
+      "Humans"
+    ],
+    "prey": [
+      "Rodents",
+      "Rabbits",
+      "Birds",
+      "Reptiles",
+      "Insects",
+      "Fruit",
+      "Carrion"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 5,
+      "max": 15
+    },
+    "average_lifespan_years": "8-10 in the wild, up to 16 in captivity",
+    "interesting_fact": "Jackals are monogamous, with pairs often maintaining territories and raising their young together.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Black-backed_Jackal_%28Canis_mesomelas%29.webp/1280px-Black-backed_Jackal_%28Canis_mesomelas%29.webp"
+  },
+  {
+    "id": 89,
+    "name": "Jaguar",
+    "fun_facts": [
+      "Jaguars are the largest big cats in the Americas and are known for their powerful bite, capable of crushing turtle shells.",
+      "Their rosettes (spots) are more complex than a leopard's, with small spots inside the larger ones.",
+      "Jaguars are excellent swimmers and often hunt in water, preying on fish, caimans, and anacondas."
+    ],
+    "habitat": "Rainforests, wetlands, and open woodlands in Central and South America.",
+    "diet": "Carnivore (large and medium-sized mammals like capybaras, peccaries, deer, and reptiles, fish)",
+    "predators": [
+      "Humans (poaching, habitat loss)"
+    ],
+    "prey": [
+      "Capybaras",
+      "Peccaries",
+      "Deer",
+      "Tapirs",
+      "Caimans",
+      "Anacondas",
+      "Fish"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "male_min": 56,
+      "male_max": 96,
+      "female_min": 36,
+      "female_max": 75
+    },
+    "average_lifespan_years": "12-15 in the wild, up to 20 in captivity",
+    "interesting_fact": "The jaguar is often considered a keystone species in its ecosystem, as its predatory role helps maintain the health of prey populations.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jaguar_%28Panthera_onca%29_in_the_Pantanal.webp/1280px-Jaguar_%28Panthera_onca%29_in_the_Pantanal.webp"
+  },
+  {
+    "id": 90,
+    "name": "Jellyfish",
+    "fun_facts": [
+      "Jellyfish are free-swimming marine animals with umbrella-shaped bells and trailing tentacles.",
+      "They are not actually fish, but invertebrates, and have no brain, heart, bones, or eyes (though some have light-sensing organs).",
+      "Jellyfish use stinging cells called nematocysts on their tentacles to capture prey and defend themselves."
+    ],
+    "habitat": "All oceans, from surface waters to the deep sea, and some freshwater lakes.",
+    "diet": "Carnivore (zooplankton, small fish, eggs, other jellyfish)",
+    "predators": [
+      "Sea turtles",
+      "Tuna",
+      "Swordfish",
+      "Penguins",
+      "Humans"
+    ],
+    "prey": [
+      "Zooplankton",
+      "Small fish",
+      "Fish eggs",
+      "Other jellyfish"
+    ],
+    "type": "Cnidarian",
+    "weight_kg": {
+      "min": 0.001,
+      "max": 200
+    },
+    "average_lifespan_years": "Few weeks to a few months, some deep-sea species much longer (up to 30 years for some)",
+    "interesting_fact": "The 'immortal jellyfish' (Turritopsis dohrnii) is capable of reverting to its juvenile polyp stage after reaching sexual maturity, theoretically making it biologically immortal.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Moon_jellyfish.webp/1280px-Moon_jellyfish.webp"
+  },
+  {
+    "id": 91,
+    "name": "Lizard",
+    "fun_facts": [
+      "Lizards are a widespread group of squamate reptiles, with over 6,000 species.",
+      "Many lizards can detach their tails (autotomy) as a defense mechanism, which can later regrow.",
+      "They have excellent vision and some species, like geckos, have highly specialized toe pads for climbing."
+    ],
+    "habitat": "Extremely diverse, from deserts and rainforests to mountains and urban areas, found on all continents except Antarctica.",
+    "diet": "Varies by species (insects, small mammals, other reptiles, eggs, plants, fruits)",
+    "predators": [
+      "Birds of prey",
+      "Snakes",
+      "Mammals (e.g., cats, mongooses)",
+      "Larger lizards",
+      "Humans"
+    ],
+    "prey": [
+      "Insects",
+      "Spiders",
+      "Worms",
+      "Small mammals",
+      "Plants",
+      "Fruits"
+    ],
+    "type": "Reptile",
+    "weight_kg": {
+      "min": 0.001,
+      "max": 160
+    },
+    "average_lifespan_years": "2-20, depending on species (some large monitor lizards live longer)",
+    "interesting_fact": "The Komodo dragon is the largest living species of lizard, growing up to 3 meters (10 feet) in length.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Green_Anole_%28Anolis_carolinensis%29_male.webp/1280px-Green_Anole_%28Anolis_carolinensis%29_male.webp"
+  },
+  {
+    "id": 92,
+    "name": "Mole",
+    "fun_facts": [
+      "Moles are small, burrowing mammals adapted to a subterranean lifestyle.",
+      "They have small eyes and poor eyesight, but excellent senses of touch and smell, especially with their star-nosed noses.",
+      "Moles create extensive networks of tunnels, which they use to hunt for invertebrates."
+    ],
+    "habitat": "Forests, grasslands, and agricultural fields in North America, Europe, and Asia.",
+    "diet": "Carnivore (earthworms, insect larvae, other invertebrates)",
+    "predators": [
+      "Owls",
+      "Hawks",
+      "Foxes",
+      "Badgers",
+      "Weasels",
+      "Humans"
+    ],
+    "prey": [
+      "Earthworms",
+      "Insect larvae",
+      "Slugs",
+      "Snails"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.05,
+      "max": 0.2
+    },
+    "average_lifespan_years": "3-6",
+    "interesting_fact": "Moles have extra thumbs (sesamoid bones) on their front paws, which help them dig more efficiently.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/European_Mole_%28Talpa_europaea%29.webp/1280px-European_Mole_%28Talpa_europaea%29.webp"
+  },
+  {
+    "id": 93,
+    "name": "Mongoose",
+    "fun_facts": [
+      "Mongooses are small, carnivorous mammals native to Africa, Asia, and Southern Europe.",
+      "They are well-known for their ability to fight and kill venomous snakes, thanks to their speed, agility, and some level of immunity to snake venom.",
+      "Many species are diurnal and highly social, living in groups."
+    ],
+    "habitat": "Forests, savannas, grasslands, and arid regions.",
+    "diet": "Carnivore (insects, crustaceans, worms, reptiles, birds, small mammals, eggs, fruit)",
+    "predators": [
+      "Birds of prey",
+      "Jackals",
+      "Leopards",
+      "Humans"
+    ],
+    "prey": [
+      "Insects",
+      "Crustaceans",
+      "Worms",
+      "Reptiles",
+      "Birds",
+      "Small mammals",
+      "Eggs",
+      "Fruit"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.3,
+      "max": 5
+    },
+    "average_lifespan_years": "6-10 in the wild, up to 20 in captivity",
+    "interesting_fact": "The meerkat is a type of mongoose known for its upright sentinel behavior.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Banded_mongoose_in_Uganda.webp/1280px-Banded_mongoose_in_Uganda.webp"
+  },
+  {
+    "id": 94,
+    "name": "Octopus",
+    "fun_facts": [
+      "Octopuses are cephalopod mollusks, known for their eight arms, soft bodies, and remarkable intelligence.",
+      "They have three hearts: two pump blood through the gills, and one circulates blood to the rest of the body.",
+      "Octopuses can change the color and texture of their skin almost instantly for camouflage or communication."
+    ],
+    "habitat": "All oceans, from coastal waters to the deep sea.",
+    "diet": "Carnivore (crabs, lobsters, fish, small mollusks)",
+    "predators": [
+      "Sharks",
+      "Dolphins",
+      "Seals",
+      "Eels",
+      "Humans"
+    ],
+    "prey": [
+      "Crabs",
+      "Lobsters",
+      "Fish",
+      "Small mollusks"
+    ],
+    "type": "Mollusk (Cephalopod)",
+    "weight_kg": {
+      "min": 0.1,
+      "max": 50
+    },
+    "average_lifespan_years": "1-3, some species up to 5",
+    "interesting_fact": "Octopuses have highly complex nervous systems, with two-thirds of their neurons located in their arms, allowing them to 'taste' and manipulate objects independently.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Octopus_vulgaris_at_Punta_Ala_%28Italy%29.webp/1280px-Octopus_vulgaris_at_Punta_Ala_%28Italy%29.webp"
+  },
+  {
+    "id": 95,
+    "name": "Parrot",
+    "fun_facts": [
+      "Parrots are birds characterized by a strong, curved beak, upright stance, and zygodactyl feet (two toes pointing forward, two backward).",
+      "Many species are known for their ability to mimic human speech and other sounds.",
+      "Parrots are highly intelligent and often form strong social bonds."
+    ],
+    "habitat": "Tropical and subtropical regions worldwide, especially in South America, Australia, and Africa.",
+    "diet": "Herbivore (seeds, nuts, fruits, buds, nectar, sometimes insects)",
+    "predators": [
+      "Snakes",
+      "Monkeys",
+      "Birds of prey",
+      "Humans (pet trade, habitat loss)"
+    ],
+    "prey": [
+      "Seeds",
+      "Nuts",
+      "Fruits",
+      "Buds",
+      "Nectar",
+      "Insects"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.05,
+      "max": 1.6
+    },
+    "average_lifespan_years": "10-80+, depending on species",
+    "interesting_fact": "Some large parrot species, like the macaw, can live for 60-80 years or more.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Macaw_Parrot.webp/1280px-Macaw_Parrot.webp"
+  },
+  {
+    "id": 96,
+    "name": "Peacock",
+    "fun_facts": [
+      "Peacocks are male peafowl, famous for their iridescent tail feathers (trains), which can reach over 1.5 meters (5 feet) long.",
+      "The magnificent display of their train is used to attract mates.",
+      "Peafowl are ground-dwelling birds, capable of short flights."
+    ],
+    "habitat": "Forests and woodlands, particularly near water, native to India, Sri Lanka, and Southeast Asia.",
+    "diet": "Omnivore (seeds, insects, fruits, small reptiles, amphibians)",
+    "predators": [
+      "Tigers",
+      "Leopards",
+      "Wild dogs",
+      "Humans"
+    ],
+    "prey": [
+      "Seeds",
+      "Insects",
+      "Fruits",
+      "Small reptiles",
+      "Amphibians"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 2.7,
+      "max": 6
+    },
+    "average_lifespan_years": "10-20 in the wild, up to 25 in captivity",
+    "interesting_fact": "Despite their large train, peafowl can fly, though usually only for short distances and low to the ground, often into trees for roosting.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Peacock_in_front_of_Taj_Mahal.webp/1280px-Peacock_in_front_of_Taj_Mahal.webp"
+  },
+  {
+    "id": 97,
+    "name": "Pelican",
+    "fun_facts": [
+      "Pelicans are large water birds characterized by a distinctive pouch under their beak, which they use to scoop up fish.",
+      "They are highly social birds, often fishing and nesting in colonies.",
+      "Some pelican species dive for fish, while others forage by swimming on the surface."
+    ],
+    "habitat": "Coastal areas, estuaries, lakes, and rivers on all continents except Antarctica.",
+    "diet": "Carnivore (primarily fish, but also amphibians, crustaceans, and occasionally other birds)",
+    "predators": [
+      "Sharks (prey on young or vulnerable adults)",
+      "Crocodiles",
+      "Foxes (prey on eggs/chicks)",
+      "Humans"
+    ],
+    "prey": [
+      "Fish",
+      "Amphibians",
+      "Crustaceans",
+      "Birds"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 4,
+      "max": 15
+    },
+    "average_lifespan_years": "10-25 in the wild, up to 30 in captivity",
+    "interesting_fact": "The Australian Pelican has the longest bill of any bird, reaching up to 49 cm (19.5 inches).",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pelican_in_flight.webp/1280px-Pelican_in_flight.webp"
+  },
+  {
+    "id": 98,
+    "name": "Pigeon",
+    "fun_facts": [
+      "Pigeons (doves) are birds known for their cooing sounds and ability to fly at high speeds.",
+      "The Rock Dove, or common city pigeon, has been domesticated for thousands of years.",
+      "Pigeons have an extraordinary homing instinct, capable of finding their way back to their loft from hundreds of miles away."
+    ],
+    "habitat": "Ubiquitous in urban and suburban areas worldwide, also found in cliffs and rocky habitats.",
+    "diet": "Omnivore (seeds, grains, fruits, insects, human food scraps)",
+    "predators": [
+      "Hawks",
+      "Falcons",
+      "Cats",
+      "Rats",
+      "Humans"
+    ],
+    "prey": [
+      "Seeds",
+      "Grains",
+      "Fruits",
+      "Insects",
+      "Scraps"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.2,
+      "max": 0.4
+    },
+    "average_lifespan_years": "3-5 in the wild, up to 15 in captivity",
+    "interesting_fact": "Pigeons were extensively used for carrying messages throughout history, especially during wartime.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rock_Dove_%28Columba_livia%29.webp/1280px-Rock_Dove_%28Columba_livia%29.webp"
+  },
+  {
+    "id": 99,
+    "name": "Rabbit",
+    "fun_facts": [
+      "Rabbits are small mammals known for their long ears, bushy tails, and powerful hind legs adapted for jumping.",
+      "They are herbivores and re-ingest their own soft fecal pellets (cecotropes) to extract more nutrients.",
+      "Rabbits are highly social animals, living in groups in underground burrows called warrens."
+    ],
+    "habitat": "Grasslands, woodlands, forests, deserts, and wetlands across most continents.",
+    "diet": "Herbivore (grasses, clover, leafy weeds, some vegetables)",
+    "predators": [
+      "Foxes",
+      "Coyotes",
+      "Hawks",
+      "Owls",
+      "Snakes",
+      "Humans"
+    ],
+    "prey": [
+      "Grasses",
+      "Clover",
+      "Leafy weeds",
+      "Vegetables"
+    ],
+    "type": "Mammal",
+    "weight_kg": {
+      "min": 0.5,
+      "max": 5
+    },
+    "average_lifespan_years": "1-3 in the wild, up to 10 in captivity",
+    "interesting_fact": "Rabbits can see almost 360 degrees, with only a small blind spot directly in front of their nose.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Rabbit_%28Oryctolagus_cuniculus%29.webp/1280px-European_Rabbit_%28Oryctolagus_cuniculus%29.webp"
+  },
+  {
+    "id": 100,
+    "name": "Raven",
+    "fun_facts": [
+      "Ravens are large, all-black passerine birds, known for their intelligence and problem-solving abilities.",
+      "They are highly vocal, producing a wide range of calls, and can mimic sounds from their environment.",
+      "Ravens often mate for life and are known to fly in impressive aerial displays."
+    ],
+    "habitat": "Forests, mountains, coasts, and deserts across the Northern Hemisphere.",
+    "diet": "Omnivore (carrion, small animals, birds, eggs, insects, grains, fruits)",
+    "predators": [
+      "Eagles",
+      "Larger owls (prey on young)",
+      "Humans"
+    ],
+    "prey": [
+      "Carrion",
+      "Rodents",
+      "Birds",
+      "Eggs",
+      "Insects",
+      "Grains",
+      "Fruits"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 0.6,
+      "max": 1.5
+    },
+    "average_lifespan_years": "10-15 in the wild, up to 40 in captivity",
+    "interesting_fact": "Ravens are known to engage in 'anting,' where they allow ants to crawl on their feathers, possibly to remove parasites or provide preening assistance.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Common_Raven_%28Corvus_corax%29.webp/1280px-Common_Raven_%28Corvus_corax%29.webp"
+  },
+  {
+    "id": 101,
+    "name": "Rooster",
+    "fun_facts": [
+      "A rooster is an adult male chicken, known for its loud 'cock-a-doodle-doo' crow, typically at dawn.",
+      "They often act as protectors of the flock, warning hens of danger.",
+      "Roosters have distinctive combs and wattles, which are fleshy growths on their heads and under their chins."
+    ],
+    "habitat": "Domesticated worldwide; wild ancestors (Red Junglefowl) live in forests of Southeast Asia.",
+    "diet": "Omnivore (grains, seeds, insects, worms, small vertebrates, greens)",
+    "predators": [
+      "Foxes",
+      "Hawks",
+      "Raccoons",
+      "Humans"
+    ],
+    "prey": [
+      "Grains",
+      "Seeds",
+      "Insects",
+      "Worms",
+      "Small vertebrates",
+      "Greens"
+    ],
+    "type": "Bird",
+    "weight_kg": {
+      "min": 2,
+      "max": 5
+    },
+    "average_lifespan_years": "5-8 in captivity",
+    "interesting_fact": "The crow of a rooster is one of the loudest animal sounds, reaching over 100 decibels.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rooster_in_the_Barnyard.webp/1280px-Rooster_in_the_Barnyard.webp"
+  },
+  {
+    "id": 102,
+    "name": "Salmon",
+    "fun_facts": [
+      "Salmon are ray-finned fish known for their incredible migratory journeys, often returning to their natal streams to spawn.",
+      "They undergo dramatic physiological changes as they transition from saltwater to freshwater for spawning.",
+      "Salmon are a keystone species in many ecosystems, providing food for a wide range of predators and nutrients for riverine environments."
+    ],
+    "habitat": "Temperate waters of the North Atlantic and Pacific Oceans; migrate to freshwater rivers and streams to spawn.",
+    "diet": "Carnivore (insects and small crustaceans in freshwater; smaller fish, squid, and krill in saltwater)",
+    "predators": [
+      "Bears",
+      "Birds of prey (eagles, ospreys)",
+      "Seals",
+      "Orcas",
+      "Humans"
+    ],
+    "prey": [
+      "Insects",
+      "Crustaceans",
+      "Smaller fish",
+      "Squid",
+      "Krill"
+    ],
+    "type": "Fish",
+    "weight_kg": {
+      "min": 2,
+      "max": 50
+    },
+    "average_lifespan_years": "2-7, depending on species",
+    "interesting_fact": "Pacific salmon species typically die after spawning, while Atlantic salmon can return to the ocean and spawn multiple times.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sockeye_salmon_in_the_Adams_River.webp/1280px-Sockeye_salmon_in_the_Adams_River.webp"
+  }
+]
