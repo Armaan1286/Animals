@@ -2,13 +2,13 @@
 * {
   margin: 0;
   padding: 10px;
-  overflow-y: auto;
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
 
 body {
   background-color: #1a1a1a;
+  overflow-y: auto;
   font-family: 'Poppins', sans-serif;
 }
 .navbar {
