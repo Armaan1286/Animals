@@ -1,5 +1,6 @@
 const container = document.querySelector('.container');
 const menuToggle = document.getElementById("menuToggle");
+const navLinks = document.getElementById("navLinks");
 async function getImageData(id) {
   const response = await fetch('animals_data.json');
   const data = await response.json();
