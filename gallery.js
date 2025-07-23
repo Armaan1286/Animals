@@ -1,4 +1,5 @@
 const container = document.querySelector('.container');
+const menuToggle = document.getElementById("menuToggle");
 async function getImageData(id) {
   const response = await fetch('animals_data.json');
   const data = await response.json();
@@ -17,6 +18,9 @@ async function getImageData(id) {
 
   container.append(box)
 }
+menuToggle.addEventListener("click", () => {
+  navLinks.classList.toggle("active");
+});
 function toAnimalCard(animalId) {
   console.log("clicked");
   window.location.href = `index.html?animalId=${encodeURIComponent(animalId)}`;
