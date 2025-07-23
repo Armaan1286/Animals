@@ -1,3 +1,5 @@
+
+
 function capitalizeWords(str) {
   return str
     .split(' ')
@@ -11,6 +13,7 @@ const navLinks = document.getElementById("navLinks");
 const searched = document.body.querySelector('#searchlink');
 const textbox = document.body.querySelector('.animalname');
 const searchbutton = document.body.querySelector('.searchbutton');
+const searchbar = document.body.querySelector('.search_bar')
 searched.addEventListener("click", () => {
   textbox.scrollIntoView({ behavior: 'smooth' });
   textbox.focus();
@@ -21,16 +24,17 @@ searched.addEventListener("click", () => {
 menuToggle.addEventListener("click", () => {
   navLinks.classList.toggle("active");
 });
-searchbutton.addEventListener("click", (event)=>{
+searchbutton.addEventListener("click", (event) => {
   event.preventDefault();
   getData()
 }
 );
-textbox.addEventListener("keydown",(event)=>{
+textbox.addEventListener("keydown", (event) => {
   const key = event.key;
- if(key==="Enter"){
-  getData();
-textbox.blur()}
+  if (key === "Enter") {
+    getData();
+    textbox.blur()
+  }
 }
 );
 
@@ -122,8 +126,27 @@ async function getData() {
 
   details.innerHTML = detailHTML;
 }
-window.addEventListener("DOMContentLoaded", () => {
-  const randomAnimal = Math.floor(Math.random() * 70 +1);
-  getRandData(randomAnimal); 
+// window.addEventListener("DOMContentLoaded", () => {
+//   const randomAnimal = Math.floor(Math.random() * 70 +1);
+//   getRandData(randomAnimal); 
+// });
+document.addEventListener("DOMContentLoaded", () => {
+
+  const urlParams = new URLSearchParams(window.location.search);
+  const animalId = parseInt(urlParams.get('animalId'));
+  if (animalId) {
+
+    searchbar.style.display = 'none';
+    getRandData(animalId);
+  }
+  else {
+    const randomAnimal = Math.floor(Math.random() * 70 + 1);
+    let day = document.createElement('div');
+    day.classList.add('day');
+    day.textContent = "Animal of the day"
+    // searchbar.append(day);
+    searchbar.insertAdjacentElement("afterend",day);
+    getRandData(randomAnimal);
+  }
 });
 
