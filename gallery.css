@@ -63,7 +63,6 @@ body {
   flex-direction: column-reverse;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
   border-radius: 10px;
   padding: 8px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
